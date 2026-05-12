@@ -1,0 +1,31 @@
+app/desktop/qml/components/StatusPill.qml
+  s_00fe0a643fa08d::t_c8626f7e9eb843 10
+app/desktop/qml/components/SearchAndPager.qml
+  s_00fe0a643fa08d::t_c8626f7e9eb843 10,15,18,20,22,24-38,40-60
+app/desktop/main.cpp
+  s_00fe0a643fa08d::t_5cae1f8d3a017e 13,16,40-41,60-79
+docs/development/build-run-test.md
+  s_00fe0a643fa08d::t_5cae1f8d3a017e 55
+app/desktop/qml/Main.qml
+  s_00fe0a643fa08d::t_c8626f7e9eb843 13-14,40,45,64,81,83
+app/desktop/qml/components/DetailsPanel.qml
+  s_00fe0a643fa08d::t_c8626f7e9eb843 37,65-74
+app/desktop/qml/components/FilterPanel.qml
+  s_00fe0a643fa08d::t_c8626f7e9eb843 10,25,32,41,59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "531ea32e04ae7c9819155a1be415f17d947b2f2c",
+  "prompts": {},
+  "sessions": {
+    "s_00fe0a643fa08d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e058d-7c7e-7310-8cef-5317ae65dca2",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
