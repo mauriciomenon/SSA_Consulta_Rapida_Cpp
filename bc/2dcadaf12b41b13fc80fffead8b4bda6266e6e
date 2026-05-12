@@ -1,0 +1,19 @@
+.github/workflows/ci.yml
+  s_00fe0a643fa08d::t_4bb2eab5ec7cdb 7-9,26,51-54,58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "bc2dcadaf12b41b13fc80fffead8b4bda6266e6e",
+  "prompts": {},
+  "sessions": {
+    "s_00fe0a643fa08d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e058d-7c7e-7310-8cef-5317ae65dca2",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
