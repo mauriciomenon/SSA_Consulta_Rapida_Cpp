@@ -1,0 +1,47 @@
+CMakeLists.txt
+  s_00fe0a643fa08d::t_d3f78c68d5aef7 12,53
+src/presentation/SsaTableModel.h
+  s_00fe0a643fa08d::t_c6d8e22e535291 12,24,31-32
+  s_00fe0a643fa08d::t_d3f78c68d5aef7 25-27
+app/desktop/main.cpp
+  s_00fe0a643fa08d::t_f639115987c711 11,25
+app/desktop/qml/Main.qml
+  s_00fe0a643fa08d::t_1fb75ef5d272fd 16
+src/presentation/MainViewModel.cpp
+  s_00fe0a643fa08d::t_d3f78c68d5aef7 5-6,86-93,129-146,168,177-207
+app/desktop/qml/components/SearchAndPager.qml
+  s_00fe0a643fa08d::t_c6d8e22e535291 10
+docs/contracts/gui-behavior.md
+  s_00fe0a643fa08d::t_c5e015fd6c2efa 9-10,20-21
+app/desktop/qml/components/SsaTable.qml
+  s_00fe0a643fa08d::t_c6d8e22e535291 4,16,19-64,66-98,100-104
+docs/architecture/system-overview.md
+  s_00fe0a643fa08d::t_c5e015fd6c2efa 23-26
+src/presentation/MainViewModel.h
+  s_00fe0a643fa08d::t_d3f78c68d5aef7 30-31,50-51,55,64,83
+app/desktop/qml/Theme.qml
+  s_00fe0a643fa08d::t_1fb75ef5d272fd 16
+  s_00fe0a643fa08d::t_c6d8e22e535291 8
+src/presentation/SsaTableModel.cpp
+  s_00fe0a643fa08d::t_c6d8e22e535291 51-55
+  s_00fe0a643fa08d::t_d3f78c68d5aef7 58-90
+tests/smoke/PresentationSmokeTest.cpp
+  s_00fe0a643fa08d::t_ff7a6dddc3f362 7-8,10,15-17,19-25,46-55,82,86-120
+  s_00fe0a643fa08d::t_771e26b7927aaf 6,9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "c4cc98874b8094beadaf379acc3ff3fd22067b86",
+  "prompts": {},
+  "sessions": {
+    "s_00fe0a643fa08d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e058d-7c7e-7310-8cef-5317ae65dca2",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Maurício Menon <mauricio.menon@gmail.com>"
+    }
+  }
+}
