@@ -1,0 +1,103 @@
+tests/integration/SqliteRepositoryTests.cpp
+  s_1de010d0b823b2::t_e7ad7633586564 9,11,20,22-25
+  s_00fe0a643fa08d::t_de831f67f4e9d3 129,143
+  s_1de010d0b823b2::t_104e8056ea4440 21
+src/domain/SsaTypes.h
+  s_1de010d0b823b2::t_476919cc24a684 11,16-65
+src/presentation/FilterPanelViewModel.cpp
+  s_1de010d0b823b2::t_df3ad0be3185bf 7,16,20,29,42,75-81,93,103,114-115,120-143
+src/presentation/ColumnSettingsModel.h
+  s_1de010d0b823b2::t_94bc1148c75113 67-69,73
+  s_1de010d0b823b2::t_6f7f0487691f02 40,54-55,66,76
+  s_1de010d0b823b2::t_d5d5c9548df568 65
+  s_1de010d0b823b2::t_d86d5adac50ed4 8,63-64
+  s_1de010d0b823b2::t_49e76cf0c34bae 74
+docs/contracts/preferences-schema.md
+  s_1de010d0b823b2::t_bbd70648926099 31
+  s_00fe0a643fa08d::t_ca436e2e7743cb 14
+app/desktop/qml/components/PreferencesDialog.qml
+  s_00fe0a643fa08d::t_bd82a3ecfae94c 78-101
+  s_1de010d0b823b2::t_283125587c5a12 107-110,112-116,144
+  s_1de010d0b823b2::t_018df92a9a1c9c 111
+  s_1de010d0b823b2::t_7651807bd014b6 128-132
+src/infra/preferences/JsonUserPreferencesStore.cpp
+  s_1de010d0b823b2::t_64e36555d7bc69 4,40-41,47-48,102,106
+src/presentation/MainViewModel.h
+  s_1de010d0b823b2::t_22398f6a8c89a7 4,108,121
+  s_00fe0a643fa08d::t_bd82a3ecfae94c 36-37,64-65
+  s_1de010d0b823b2::t_6d94b59ad9878b 117-118
+  s_00fe0a643fa08d::t_ef0f22fa82d02c 15,97,116
+  s_1de010d0b823b2::t_b699cc114e1745 99
+src/ports/IUserPreferencesStore.h
+  s_1de010d0b823b2::t_73f155f602a698 3-4
+  s_1de010d0b823b2::t_9741ea6a81289e 15,19
+tests/smoke/PresentationSmokeTest.cpp
+  s_00fe0a643fa08d::t_1543071933c70a 258,272,287,301
+  s_1de010d0b823b2::t_ac51c81277d256 78,83,89,94,101
+  s_00fe0a643fa08d::t_49d61fe217d55d 232
+  s_00fe0a643fa08d::t_de831f67f4e9d3 277-286,288-289
+docs/contracts/gui-behavior.md
+  s_00fe0a643fa08d::t_ca436e2e7743cb 14-15,27-28,46
+  s_1de010d0b823b2::t_b640c779ab6be9 11
+app/desktop/qml/Main.qml
+  s_00fe0a643fa08d::t_bd82a3ecfae94c 102-103
+  s_00fe0a643fa08d::t_692c28a60cef6f 84
+  s_00fe0a643fa08d::t_638cee41f6351e 89-90
+app/desktop/qml/components/FilterPanel.qml
+  s_00fe0a643fa08d::t_a991dded79053b 12,49-58,62
+  s_00fe0a643fa08d::t_c53b0babec83fb 8,10-11,29-30,36-38,45-47,65-67,69-70,76
+src/presentation/FilterPanelViewModel.h
+  s_1de010d0b823b2::t_fb7ed3ae44e992 56
+  s_1de010d0b823b2::t_4bc9bad2204078 3-4
+  s_00fe0a643fa08d::t_e88180c334a8ef 23,38
+  s_00fe0a643fa08d::t_79c157f35ca5c3 51,54
+  s_1de010d0b823b2::t_ce3f3be3300862 52-53,61-63
+src/presentation/MainViewModel.cpp
+  s_1de010d0b823b2::t_9cf1c8479fc5ec 4,115,147,219,308,310-316,324,334
+  s_00fe0a643fa08d::t_ef0f22fa82d02c 28-30,73,89,106,120,154,344-348
+  s_1de010d0b823b2::t_034a510700d243 81-82,93-96,330
+  s_00fe0a643fa08d::t_bd82a3ecfae94c 110-114,116-119,368
+  s_00fe0a643fa08d::t_663a17bb456719 232
+  s_1de010d0b823b2::t_2553b784ad145d 355-358,360,372-394
+  s_1de010d0b823b2::t_b0064e0c8687f2 359
+  s_1de010d0b823b2::t_c8c6bd1d4d41b8 6
+src/presentation/ColumnSettingsModel.cpp
+  s_1de010d0b823b2::t_8d92e1e667e97f 24
+  s_1de010d0b823b2::t_c4c422b6a489a1 282
+  s_1de010d0b823b2::t_1c1e74387716dc 16-20,174,184
+  s_1de010d0b823b2::t_45410fbed3771f 6,13-15,21-23,29-30,37,41,48-49,52,89-90,112-115,167,169-170,260-272,275-276,280-281,284-285,287-291,293-297
+  s_1de010d0b823b2::t_9dd4fdec51e022 63
+  s_1de010d0b823b2::t_b0b6d7d3196c29 93-98,101-102,109,111,116,143-144
+  s_1de010d0b823b2::t_e140ba5240691f 123-136,139,149
+  s_1de010d0b823b2::t_ff6f86f72daed6 225-227
+  s_1de010d0b823b2::t_46f4b4353796ca 273-274,277,283,286
+  s_1de010d0b823b2::t_193cb8bcf81e1f 163,189,195
+  s_1de010d0b823b2::t_43259b51fcf90c 183,194
+  s_1de010d0b823b2::t_de23296149a282 162,164-166,168,254-259
+docs/architecture/system-overview.md
+  s_00fe0a643fa08d::t_ca436e2e7743cb 31,34-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "9aebfcb86455a8fb9b1562f4900474d2a77148cc",
+  "prompts": {},
+  "sessions": {
+    "s_00fe0a643fa08d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e058d-7c7e-7310-8cef-5317ae65dca2",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    },
+    "s_1de010d0b823b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1c79-3897-7c61-9f19-1cb117a68ba9",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
