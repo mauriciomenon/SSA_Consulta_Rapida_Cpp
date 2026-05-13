@@ -1,0 +1,19 @@
+tools/configure-dev.ps1
+  s_1de010d0b823b2::t_0ddc2c4ac8ade6 58,74,79,82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "545af990b03829fa6400f74811ddfb8d9bebb2c7",
+  "prompts": {},
+  "sessions": {
+    "s_1de010d0b823b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1c79-3897-7c61-9f19-1cb117a68ba9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
