@@ -1,0 +1,81 @@
+src/presentation/UserPreferencesCoordinator.cpp
+  s_1de010d0b823b2::t_288cca7b87137f 3,29-35
+  s_1de010d0b823b2::t_c680c32445b3d2 4,38-39,51,60,76,103
+  s_1de010d0b823b2::t_224bf752e69242 28
+  s_1de010d0b823b2::t_9f6191fad0106d 88-90
+src/query/TextFilterSqlCompiler.h
+  s_1de010d0b823b2::t_54d38dde18ddbf 1-21,23-29
+  s_1de010d0b823b2::t_a80c373a5dca6e 22
+app/desktop/qml/Main.qml
+  s_1de010d0b823b2::t_4b3b11b3f28c44 38
+  s_1de010d0b823b2::t_6d827a1f7ddee4 12,34-37,39
+src/query/TextFilterSqlCompiler.cpp
+  s_1de010d0b823b2::t_46cf1f11ff1e13 18,66-67,71,74,77,83-84,90-93,95-96,116,119,126,139,158-159,184-185,252,258
+  s_1de010d0b823b2::t_b01a7a86f60229 32-33,68
+  s_1de010d0b823b2::t_54d38dde18ddbf 1-17,19-31,34-65,69-70,72-73,75-76,78-82,85-89,94,97-115,117-118,120-125,127-129,131-138,140-157,160-164,166-183,186-190,192-205,207-251,260-271
+  s_1de010d0b823b2::t_5a1397c75836a1 130,165,191,206,253-257,259
+src/query/SqlPredicateBuilder.cpp
+  s_1de010d0b823b2::t_23fb3d9e5e0ef0 3-4,15-16,18-23
+  s_1de010d0b823b2::t_b54fb973a02506 17
+app/desktop/main.cpp
+  s_1de010d0b823b2::t_4b3b11b3f28c44 70
+  s_1de010d0b823b2::t_6d827a1f7ddee4 85,88-89,94-95
+  s_1de010d0b823b2::t_0641b64661c1d1 1
+src/query/AdvancedFilterSqlCompiler.cpp
+  s_1de010d0b823b2::t_a3d02327f7bf4d 16-17
+  s_1de010d0b823b2::t_7e3d77f8b6b000 94-96
+  s_1de010d0b823b2::t_b01a7a86f60229 14-15,21-29,99,103
+  s_1de010d0b823b2::t_54d38dde18ddbf 1-13,18-19,36-45,47-58,60-61,64-75,77-92,98,100-102,104-119
+  s_1de010d0b823b2::t_607af049cf7922 20,30-35,59,62-63
+  s_1de010d0b823b2::t_5a1397c75836a1 46,76,97
+  s_1de010d0b823b2::t_7beda554cca7bf 93
+src/infra/preferences/JsonUserPreferencesStore.cpp
+  s_1de010d0b823b2::t_c0dba235e4f003 40-43
+  s_1de010d0b823b2::t_a80c373a5dca6e 10
+  s_1de010d0b823b2::t_b7a1d17ec99d6a 4,33,36,50-51
+  s_1de010d0b823b2::t_adb6872a3247bf 52
+src/infra/preferences/UserPreferencesJsonCodec.h
+  s_1de010d0b823b2::t_b7a1d17ec99d6a 1-18
+src/query/SqlQueryText.h
+  s_1de010d0b823b2::t_5a1397c75836a1 3,12
+app/desktop/DesktopSmokeCapture.cpp
+  s_1de010d0b823b2::t_a80c373a5dca6e 63-78,100
+  s_1de010d0b823b2::t_6d827a1f7ddee4 51,59-60,84-89,92-93,99
+  s_1de010d0b823b2::t_0641b64661c1d1 1-4,8-11,13-17,33,38,44,61,80-83,90-91,94-98,102-107
+  s_1de010d0b823b2::t_ed8f1acfc49dcd 7,12,18-21,23-24,29-32,34-37,39,62
+  s_1de010d0b823b2::t_4b3b11b3f28c44 5-6,22,25-28,40-43,45-50,52-58,79,101
+app/desktop/DesktopSmokeCapture.h
+  s_1de010d0b823b2::t_0641b64661c1d1 1-2,5-8,20-23,26-28
+  s_1de010d0b823b2::t_6d827a1f7ddee4 3-4,9-19,24-25
+src/infra/preferences/UserPreferencesJsonCodec.cpp
+  s_1de010d0b823b2::t_a80c373a5dca6e 36,83-85,142-143
+  s_1de010d0b823b2::t_b7a1d17ec99d6a 1-35,37-54,57-66,69-71,73-82,86-134,136-140,144-175
+  s_1de010d0b823b2::t_33f05dedb29c27 72
+  s_1de010d0b823b2::t_c0dba235e4f003 55-56,67-68,135,141
+src/query/SqlQueryText.cpp
+  s_1de010d0b823b2::t_5a1397c75836a1 7,32-33
+  s_1de010d0b823b2::t_46cf1f11ff1e13 24-26
+src/query/AdvancedFilterSqlCompiler.h
+  s_1de010d0b823b2::t_54d38dde18ddbf 1-12,14-18
+  s_1de010d0b823b2::t_a80c373a5dca6e 13
+CMakeLists.txt
+  s_1de010d0b823b2::t_b7a1d17ec99d6a 60
+  s_1de010d0b823b2::t_b54fb973a02506 36,41
+  s_1de010d0b823b2::t_0641b64661c1d1 105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "9b426aff8d8c588734531663b479219892478b52",
+  "prompts": {},
+  "sessions": {
+    "s_1de010d0b823b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1c79-3897-7c61-9f19-1cb117a68ba9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
