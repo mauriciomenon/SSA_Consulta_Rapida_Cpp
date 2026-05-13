@@ -1,0 +1,25 @@
+tools/configure-dev.ps1
+  s_1de010d0b823b2::t_a2d49fcdaa397f 79,81,83
+  s_1de010d0b823b2::t_c1bb36320d236b 4,115-125,127-140,147-159,185-203
+  s_1de010d0b823b2::t_033c545fdc6b01 60-64,66,73-75,126,141-146
+  s_1de010d0b823b2::t_d02398f4f1dee0 31-35,106,109
+README.md
+  s_1de010d0b823b2::t_c1bb36320d236b 51,69-72,78,85-92,197,210,212-215,228-233,268,270-273
+  s_1de010d0b823b2::t_e183c3a6f2dde7 65-66,73-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "a5869c3b2c1464c13ebb03e9c3e95559dfbf732f",
+  "prompts": {},
+  "sessions": {
+    "s_1de010d0b823b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1c79-3897-7c61-9f19-1cb117a68ba9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
