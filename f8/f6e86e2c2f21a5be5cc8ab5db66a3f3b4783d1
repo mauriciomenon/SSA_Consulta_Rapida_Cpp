@@ -1,0 +1,19 @@
+tests/smoke/PresentationSmokeTest.cpp
+  s_1de010d0b823b2::t_c04941b1d245ac 181-182,185-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "f8f6e86e2c2f21a5be5cc8ab5db66a3f3b4783d1",
+  "prompts": {},
+  "sessions": {
+    "s_1de010d0b823b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1c79-3897-7c61-9f19-1cb117a68ba9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
