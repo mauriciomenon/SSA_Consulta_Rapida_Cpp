@@ -1,0 +1,179 @@
+app/desktop/qml/components/AppTextField.qml
+  s_1de010d0b823b2::t_b25637b2b9a9e5 11-12,14
+  s_1de010d0b823b2::t_a8c68bddb9f137 1-10,13,16-19
+  s_1de010d0b823b2::t_4ba4fe66c845c2 15
+README.md
+  s_1de010d0b823b2::t_3265dabb10fc20 42-43
+  s_1de010d0b823b2::t_c683d975998ae9 211,232,269
+  s_1de010d0b823b2::t_d0c81cbbf5996c 51,57,59-60
+  s_1de010d0b823b2::t_db59f409c1d8e4 13-14,16,18,21-22,27,29-33,35-36,41,44-45,49-50,54,56
+  s_1de010d0b823b2::t_896750f9a2e6eb 12,17,23-24
+  s_1de010d0b823b2::t_a41a1cab9c037d 37-39,66
+  s_1de010d0b823b2::t_5cd03954d04609 48
+  s_1de010d0b823b2::t_ec21358e119966 9
+  s_1de010d0b823b2::t_261ff45563f5dc 91,198
+scripts/build-macos.sh
+  s_1de010d0b823b2::t_d58810916d689f 1-9
+app/desktop/qml/components/ColumnConfigList.qml
+  s_1de010d0b823b2::t_1cfe668cd8ccf4 3-16,18-97,99-114
+  s_1de010d0b823b2::t_e0918df541d9a4 98
+  s_1de010d0b823b2::t_5684a474a443c2 1-2
+  s_1de010d0b823b2::t_237a3c34f789b1 17
+app/desktop/qml/components/StatusPill.qml
+  s_1de010d0b823b2::t_6aef963e3301a3 39
+  s_1de010d0b823b2::t_123a450d132648 14,19,32-33,36-38,40-41
+app/desktop/qml/components/SearchAndPager.qml
+  s_1de010d0b823b2::t_eda1fc1ab4769d 66-68,70-72
+  s_1de010d0b823b2::t_f91546a0652203 11,18-46,54,56,63-64,74-76,87,101-104,106,108-112,115,120
+  s_1de010d0b823b2::t_2659b2810c2bbe 9,59,69
+  s_1de010d0b823b2::t_d9a529539f0ee0 96,107
+  s_1de010d0b823b2::t_73fd97f9405f9b 58
+  s_1de010d0b823b2::t_9bc8688708dd4b 73,77
+app/desktop/qml/Main.qml
+  s_1de010d0b823b2::t_8a68e8179f37a9 173-175
+  s_1de010d0b823b2::t_8c905e0167f331 136
+  s_1de010d0b823b2::t_aa5a1710c312e7 122-126
+  s_1de010d0b823b2::t_2bf3c0069b73a3 57
+  s_1de010d0b823b2::t_a2a609ec5984d1 24-27,62,69,72-78,82,84-85,88-92,178,192
+  s_1de010d0b823b2::t_58f351b177a244 40-42
+  s_1de010d0b823b2::t_a9a879d2b5a32e 32-37,206-216,218
+  s_1de010d0b823b2::t_6f002557343f64 54-56
+  s_1de010d0b823b2::t_4c169901140499 217,219-220
+  s_1de010d0b823b2::t_12fd627f2ad3a9 31
+tools/configure-dev.ps1
+  s_1de010d0b823b2::t_a523f5436041c7 71,73
+  s_1de010d0b823b2::t_2c009784f91eaf 209,212,214
+  s_1de010d0b823b2::t_68f0e476db236a 72,81-83
+  s_1de010d0b823b2::t_1adadf85cc4aad 76,110-111,144-153
+  s_1de010d0b823b2::t_b79cfa38696099 116-142,154
+  s_1de010d0b823b2::t_296dfaa34249a9 156
+  s_1de010d0b823b2::t_938c39a1f2c9e7 92-97
+  s_1de010d0b823b2::t_877f16afd4b890 60
+  s_1de010d0b823b2::t_4692361c3d76e2 61-70,74-75,77-80,84-85,109
+  s_1de010d0b823b2::t_5bfb68670150bf 167-174
+  s_1de010d0b823b2::t_59cf90d60f0b27 157
+  s_1de010d0b823b2::t_8c8f0b92d03e66 177
+  s_1de010d0b823b2::t_b7e880fe60bdc2 179
+app/desktop/qml/components/PreferencesDialog.qml
+  s_1de010d0b823b2::t_719a18b2b714ee 13,16
+  s_1de010d0b823b2::t_95c86ddd81ddec 34,39,45-50
+  s_1de010d0b823b2::t_9a7c9c9a282dd0 23-24,102-105
+  s_1de010d0b823b2::t_51e584442f6223 17-19
+  s_1de010d0b823b2::t_98067d82112901 11-12,14-15
+  s_1de010d0b823b2::t_b3377efd827a42 117,120
+src/presentation/UiSettingsViewModel.h
+  s_1de010d0b823b2::t_5184cf54021f77 21-26,40-45,57,62-66,73-81
+  s_1de010d0b823b2::t_637fb7844b1d9d 15,33,52
+  s_1de010d0b823b2::t_7484e7f33359a8 69
+  s_1de010d0b823b2::t_c090d3a97ea746 8,67,82
+app/desktop/qml/components/FilterPanel.qml
+  s_1de010d0b823b2::t_fbe3d63728e8a8 14,111-113
+  s_1de010d0b823b2::t_8968bde4b275ef 18,125
+  s_1de010d0b823b2::t_ddb3a8b6e1b73d 64,69-71,114,117,159,163,169,197
+  s_1de010d0b823b2::t_a8241878ab1248 81
+  s_1de010d0b823b2::t_3977b7456e5490 84-85,109-110,115-116
+  s_1de010d0b823b2::t_3d25bf440b0f1a 107,118-119,153
+  s_1de010d0b823b2::t_82449762c5ef08 12,22,29-44,46-49,57,61-62,75,78-80,82-83,86-87,101-102,105-106,108,120-122,124,126-128,133-134,146-148,151,161,172
+  s_1de010d0b823b2::t_74243eefd02fa2 11,45,129-132,174-177
+  s_1de010d0b823b2::t_abbf257db22293 65,123
+  s_1de010d0b823b2::t_a11977bd1162ac 10
+  s_1de010d0b823b2::t_f58fa847d23e12 13,15-17,19-20
+  s_1de010d0b823b2::t_143b8891542643 100
+src/presentation/FilterPanelViewModel.h
+  s_1de010d0b823b2::t_6158efa8bcbfb1 7-8,93,114-115
+  s_1de010d0b823b2::t_f01a1337db113e 37,66,108
+  s_1de010d0b823b2::t_54668d896e0b09 13-14,17-20,40,45-46,69,75,82,92,94-95,97,113
+src/presentation/BrowseViewModel.cpp
+  s_1de010d0b823b2::t_1cc70b37561b98 13
+app/desktop/qml/Theme.qml
+  s_1de010d0b823b2::t_d49b75e09cb92f 11-12,14-18,20-21,25
+  s_1de010d0b823b2::t_30fad6a887b9d6 27-32
+  s_1de010d0b823b2::t_64931c16430bcd 19
+  s_1de010d0b823b2::t_8dff1bf2030b29 23-24
+scripts/run-debian.sh
+  s_1de010d0b823b2::t_f987eafa8e7b44 1-21
+src/ports/UserPreferenceDefaults.h
+  s_1de010d0b823b2::t_703116d90c989e 7-9
+app/desktop/qml/components/DetailsPanel.qml
+  s_1de010d0b823b2::t_ba5b091c204df5 38-42
+  s_1de010d0b823b2::t_ed9c3f3db01bec 56
+  s_1de010d0b823b2::t_6a21d375bdee9e 45,50-55,57-63,66-87,89-92
+  s_1de010d0b823b2::t_0c4f6b53df014d 64
+  s_1de010d0b823b2::t_c17f7b41a1b13d 20,24-25,35,101,103
+  s_1de010d0b823b2::t_e0e28b397b1179 46
+scripts/run-macos.sh
+  s_1de010d0b823b2::t_28057672a487e9 1-20
+scripts/build-windows.ps1
+  s_1de010d0b823b2::t_1ed6123ea36087 16
+  s_1de010d0b823b2::t_1d6ff474fa7832 1-9,14-15,17,21-23
+  s_1de010d0b823b2::t_250b09f1f58a62 20
+  s_1de010d0b823b2::t_bc90c8a89e3056 10
+  s_1de010d0b823b2::t_7dd0a68ccdd0bd 11,19
+  s_1de010d0b823b2::t_95657f705011d0 12-13,18
+tests/smoke/PresentationSmokeTest.cpp
+  s_1de010d0b823b2::t_4f20868b2ddd51 257-259,294-296
+app/desktop/qml/components/AppCheckBox.qml
+  s_1de010d0b823b2::t_441f2dddd49274 7,13,18-25,27-36
+  s_1de010d0b823b2::t_db7a7de0eb87bb 14,26
+CMakeLists.txt
+  s_1de010d0b823b2::t_60dbcffe2bd1ed 122,125
+  s_1de010d0b823b2::t_dd0b18d26ac042 3
+scripts/run-windows.ps1
+  s_1de010d0b823b2::t_5091becdfb8995 42,44
+  s_1de010d0b823b2::t_65d2b590cc190a 41,43,45
+  s_1de010d0b823b2::t_58a99886920be9 15
+  s_1de010d0b823b2::t_b2f8e1b0ffa40b 53-55
+  s_1de010d0b823b2::t_487fd45bc1c63e 1-4,9-14,23,46-48
+  s_1de010d0b823b2::t_69342a7fa262c1 5
+  s_1de010d0b823b2::t_5945b07ff2e5a7 6,28-29,35-36,39-40,49-52,56-63
+  s_1de010d0b823b2::t_b71e0c39ba45b7 7
+  s_1de010d0b823b2::t_0f6234a0875777 8,17-22
+  s_1de010d0b823b2::t_e2f05e2deb3e21 16,24,26-27,37-38
+  s_1de010d0b823b2::t_948bbe716d127b 25
+  s_1de010d0b823b2::t_cff0d2b2bc2045 30-34
+tools/configure-dev.sh
+  s_1de010d0b823b2::t_aa5357c135b3fe 24-48,56-67
+app/desktop/qml/components/ActionButton.qml
+  s_1de010d0b823b2::t_3ea75fcbbf1369 26
+  s_1de010d0b823b2::t_1fdf0794aedb25 7
+  s_1de010d0b823b2::t_b05820886dc428 44-46
+  s_1de010d0b823b2::t_c4164474d59f3c 24,27,30-31
+  s_1de010d0b823b2::t_638e7b0c60a99e 9-18,22-23,37,39
+  s_1de010d0b823b2::t_81649c417caf64 19,32-36
+  s_1de010d0b823b2::t_571ca94fb7bbb3 25,28-29
+src/presentation/FilterPanelViewModel.cpp
+  s_1de010d0b823b2::t_7de138fc9edf6a 8,329,336-353,356
+  s_1de010d0b823b2::t_a89ab3f2427568 334-335
+  s_1de010d0b823b2::t_de53b4874d8e7c 5,98-100,111,154,238-241,300-315,325-326,354-355,357-372,374-375,377-380
+  s_1de010d0b823b2::t_2bd674068282bc 6,373,376
+  s_1de010d0b823b2::t_39a82ed164148a 220-223
+  s_1de010d0b823b2::t_ba378b81e4d33a 327-328
+  s_1de010d0b823b2::t_39819c70035436 330-333
+src/presentation/UiSettingsViewModel.cpp
+  s_1de010d0b823b2::t_0df5d78ecde4b4 3-7,10-20,32-33,37-48,59,73,87,89,93-123,132,134,137,153-183
+scripts/build-debian.sh
+  s_1de010d0b823b2::t_65610e819b7914 1-9
+app/desktop/qml/components/SsaTable.qml
+  s_1de010d0b823b2::t_dba9c428b6382e 106-112,117,125
+  s_1de010d0b823b2::t_8f45ac754a3dba 53,57-60,85,133,137,141-143
+  s_1de010d0b823b2::t_a43bac5c2d48e3 49
+  s_1de010d0b823b2::t_62ef88e6392765 121-124
+  s_1de010d0b823b2::t_d8e07dd94847b4 136
+  s_1de010d0b823b2::t_262d9c680bfe0a 95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "d384570b78cfe81a2429fe31ee67afb6a8671ba6",
+  "prompts": {},
+  "sessions": {
+    "s_1de010d0b823b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1c79-3897-7c61-9f19-1cb117a68ba9",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
