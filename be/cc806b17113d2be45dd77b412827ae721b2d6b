@@ -1,0 +1,1236 @@
+src/presentation/AdvancedDerivationFilterViewModel.h
+  s_00fe0a643fa08d::t_92ae071872f0fc 1-41
+app/desktop/qml/components/FilterTabButton.qml
+  s_00fe0a643fa08d::t_63ae7c0f450eeb 1-20
+src/presentation/UiSettingsViewModel.h
+  s_1de010d0b823b2::t_a3757ec052268f 70-71
+  s_1de010d0b823b2::t_efec64abe8c0f8 5
+  s_1de010d0b823b2::t_03cceb3a18b2fd 43,69,72,76
+  s_1de010d0b823b2::t_098108e70fe55d 22-23
+  s_1de010d0b823b2::t_670acd89c9c84d 75
+src/presentation/BrowseOrchestrator.h
+  s_1de010d0b823b2::t_8055e67da1d270 7,72
+  s_1de010d0b823b2::t_fe555a0cae212b 5,8,70-71
+scripts/lazy_scripts/run-windows.ps1
+  s_1de010d0b823b2::t_18207841c57d54 1-38
+tests/smoke/FilterPanelSmokeTest.cpp
+  s_00fe0a643fa08d::t_809b235ee71e62 82-85
+  s_00fe0a643fa08d::t_bc2b4f6eb60ffe 2,4,87-99
+  s_00fe0a643fa08d::t_b00da2b040f6f1 3,100-116
+  s_00fe0a643fa08d::t_b64203a461b05d 1,5-72,118-124
+  s_00fe0a643fa08d::t_78ededa4ce618b 73-81,86,117
+src/presentation/WorkflowCommandRunner.cpp
+  s_00fe0a643fa08d::t_558c9aff1e5df1 1-52
+src/infra/preferences/FilterPreferencesJsonCodec.h
+  s_00fe0a643fa08d::t_e224292d92372b 13
+  s_00fe0a643fa08d::t_ff511ad6384318 1-12,14-17
+scripts/build-debian.sh
+  s_1de010d0b823b2::t_a3879af3235fc2 4-22
+  s_1de010d0b823b2::t_4c661635f71dae 25
+src/presentation/DesktopActionsViewModel.h
+  s_00fe0a643fa08d::t_c176086a6d3e03 1-46
+src/presentation/MainSelectionFlowCoordinator.h
+  s_1de010d0b823b2::t_09d67657202e41 1-2,5-8,12-13,16,18-25
+  s_1de010d0b823b2::t_766faab17fdaac 3-4,9-11,14-15,17
+scripts/package-linux.sh
+  s_1de010d0b823b2::t_7b2a0af1c3d82c 28-29
+  s_1de010d0b823b2::t_fe837c6bb01b9a 1-26,30-45,47-85,90-128,134-136,145-153,155-174
+  s_1de010d0b823b2::t_dcfbd930db3367 46,86-89,130,132
+  s_1de010d0b823b2::t_3d3e99eb5b8198 27
+  s_1de010d0b823b2::t_0f8764dee22986 129,131,133
+  s_1de010d0b823b2::t_64b202a3331d71 137-144
+  s_1de010d0b823b2::t_af8ae6065a8a43 154
+src/query/AdvancedFilterSqlCompiler.cpp
+  s_00fe0a643fa08d::t_1543a33c236e9f 103-110,115,171
+  s_00fe0a643fa08d::t_86329a81421bb4 111-114
+  s_00fe0a643fa08d::t_f7bdc1d8119b9c 76-77
+  s_00fe0a643fa08d::t_71e259927cbaef 165-170,172-177
+  s_00fe0a643fa08d::t_f4b1cb60daa4dc 68-75,78-102,116-117
+tests/integration/SqliteRepositoryTests.cpp
+  s_00fe0a643fa08d::t_e257c11c41cacc 170-189
+src/presentation/AdvancedTextFilterSnapshotSynchronizer.h
+  s_00fe0a643fa08d::t_fac57d3cbb14f6 8,17-18,25-26
+  s_00fe0a643fa08d::t_9d15be209ca0ae 1-7,9-16,33-35
+  s_00fe0a643fa08d::t_5f39fe0abb4122 27
+  s_00fe0a643fa08d::t_69210717b0432a 28,32
+  s_00fe0a643fa08d::t_5e3bb370cb4e7a 29-31
+  s_00fe0a643fa08d::t_38db5e47a5072a 19-24
+src/presentation/FilterPanelAdvancedState.cpp
+  s_00fe0a643fa08d::t_5085e070e7eaeb 263,269
+  s_00fe0a643fa08d::t_6625b8051d5955 10-21,44-46
+  s_00fe0a643fa08d::t_3b65bb498093ec 1-6,9,22,28-43,47-59,61-65,67-68,70-73,75-77,79-81,83-85,87-89,91-93,95-97,99-101,103-105,107-109,111-113,115-117,119-121,123-125,127-129,131-133,135-137,139-141,143-159,161-163,165-166,168-170,174,176,194,197-199,217-218,221-228,231-235,237,247,249-256,258,261-262,267-268,273-275,278-280,283-286,301-303
+  s_00fe0a643fa08d::t_2adbb81ae29070 7-8
+  s_00fe0a643fa08d::t_5b203890a39129 23-27,60,66,69,74,78,82,86,90,94,98,102,106,110,114,118,122,126,130,134,138,142,160,164,167,171-173,178-180,185,187,190,192,200-201,204,213,219-220,229-230,236,238-246,248,257,259-260,264-266,270-272,276-277,281-282,287-300
+src/domain/SsaTypes.h
+  s_00fe0a643fa08d::t_37dcb288af22fb 11,176-183
+  s_00fe0a643fa08d::t_87ba9f10e2800f 44,209-212,245
+  s_00fe0a643fa08d::t_d32596d9212978 267-271
+  s_00fe0a643fa08d::t_6c45df0f650c53 35-38
+  s_00fe0a643fa08d::t_615b029cd5ad77 85,88-94,121-129
+  s_00fe0a643fa08d::t_e7446c1e979850 22
+  s_1de010d0b823b2::t_d05db7b4158896 120,130-132,248-251
+  s_00fe0a643fa08d::t_17c4d119081392 26-27,109,116
+  s_1de010d0b823b2::t_a5300889c16987 265-266,272-273
+src/presentation/BrowseRequestCoordinator.h
+  s_1de010d0b823b2::t_4718e01ac691eb 1-3,6-15,19-27,30-50
+  s_1de010d0b823b2::t_0105fad783aa3f 28-29
+  s_1de010d0b823b2::t_fac4b9a1255eb8 4,16-18
+src/presentation/BrowseSelectionCoordinator.h
+  s_1de010d0b823b2::t_3a3494fc4d582b 1-17,19-25
+  s_1de010d0b823b2::t_deab2d7a716651 18
+src/infra/preferences/JsonFilterPresetStore.cpp
+  s_00fe0a643fa08d::t_11117248111419 3,38
+  s_00fe0a643fa08d::t_e103cf1f1315d5 1-2,4-30,34,39-48,51-53
+  s_00fe0a643fa08d::t_bacb4e53f52ce7 31-33,35-37,49-50
+app/desktop/qml/components/SearchAndPager.qml
+  s_00fe0a643fa08d::t_73d6871e9640c9 147
+  s_00fe0a643fa08d::t_ac17c0cd784374 124,138
+  s_00fe0a643fa08d::t_af76f60601569e 11,103-104,106,176-177,181
+  s_00fe0a643fa08d::t_3863405f4b243f 155
+  s_00fe0a643fa08d::t_44dcb6c7440b58 16,36-39,162
+  s_00fe0a643fa08d::t_57c9bd92363bed 130
+  s_00fe0a643fa08d::t_f2771eda8db12a 12-13,61-63
+  s_00fe0a643fa08d::t_d31baecbf0909c 19,34-35,45,59-60,142,161,165
+  s_00fe0a643fa08d::t_0968bcab8440d5 48,56,125,139
+  s_00fe0a643fa08d::t_f3da7ebc90a580 184-187
+  s_00fe0a643fa08d::t_5c8004600c5f0b 20,26,33,55,86-102,105,107-113,121-123,126,128,131-132,135-137,140-141,143-145,153,160,188
+  s_00fe0a643fa08d::t_af844f0021d261 1-2
+  s_00fe0a643fa08d::t_4b5a69c327e81f 159,164,166-171,173-175,178-180,182-183
+  s_00fe0a643fa08d::t_cdf5f579e58e37 154
+  s_00fe0a643fa08d::t_1d208a633f8b4f 14-15,64-85
+  s_00fe0a643fa08d::t_cc77d55ee3bf54 172
+src/presentation/AdvancedTextFilterSnapshotSynchronizer.cpp
+  s_00fe0a643fa08d::t_0ed2f35be48228 15-16,19-20,49,52-54
+  s_00fe0a643fa08d::t_7e2801b03bd9fc 13,17-18,21,24,27
+  s_00fe0a643fa08d::t_8910824e86d87a 5,7,26,50,55-62
+  s_00fe0a643fa08d::t_a651045d5d06ed 34-37,45
+  s_00fe0a643fa08d::t_aee41c83520797 3-4,39-40,43
+  s_00fe0a643fa08d::t_1f9ba72f47efca 28-30,32-33,41-42,44,46-48
+  s_00fe0a643fa08d::t_b97d5f4170b65f 6
+  s_00fe0a643fa08d::t_33bb55fea38288 14,51
+  s_00fe0a643fa08d::t_357f0897a2d1da 38
+  s_00fe0a643fa08d::t_61c7a755b9e010 1-2,8-12,22,63-65,70-72
+  s_00fe0a643fa08d::t_5f04599c150790 23,66-69
+  s_00fe0a643fa08d::t_5097f9d6bf85bb 25,31
+scripts/lazy_scripts/build-macos.sh
+  s_1de010d0b823b2::t_692af8de124ea8 1-46
+scripts/lazy_scripts/build-windows.ps1
+  s_1de010d0b823b2::t_68de77c2ef807a 1-29
+app/desktop/qml/components/AppTextField.qml
+  s_00fe0a643fa08d::t_0f13ca94cb51fb 13-14,16
+src/presentation/FilterPanelDistinctValueRequestBuilder.h
+  s_00fe0a643fa08d::t_8538300a80242c 25-27
+  s_00fe0a643fa08d::t_0794cecba2cdfd 5,23-24,29
+  s_00fe0a643fa08d::t_16d9156bb77495 8,28
+  s_00fe0a643fa08d::t_a14303ff01118d 17-20
+  s_00fe0a643fa08d::t_e1cd28117b1a03 1-4,6-7,9-16,21-22,30-32
+src/presentation/AdvancedWeekFilterViewModel.h
+  s_00fe0a643fa08d::t_97fd95e263de2a 1-62
+src/platform/SamCommandHandler.cpp
+  s_00fe0a643fa08d::t_f8f9abcc3cb667 21-22
+  s_00fe0a643fa08d::t_04e719d492e939 5-8,17-20,42-44
+  s_00fe0a643fa08d::t_87d78baef28463 15-16,30-32,40-41,45
+  s_00fe0a643fa08d::t_24681f4fb6a93f 9,46
+src/presentation/FilterPanelAdvancedViewModel.cpp
+  s_00fe0a643fa08d::t_976617882bda74 32
+  s_00fe0a643fa08d::t_f465ba6640caf8 19-20,23-24,27-28
+  s_00fe0a643fa08d::t_7403340130f6c1 33,36-40
+  s_00fe0a643fa08d::t_9b20f844f581bc 1-2,5-7,17-18,29-31,34-35,41-48
+  s_00fe0a643fa08d::t_0675f09a5079da 3-4
+  s_00fe0a643fa08d::t_21b69be5186ccb 9-16,21-22,25-26
+  s_00fe0a643fa08d::t_79b5eb101b335a 8
+app/desktop/qml/components/AdvancedTextFilterGrid.qml
+  s_00fe0a643fa08d::t_12ed3be41eacae 39-41
+  s_00fe0a643fa08d::t_7108c263eeb65b 53-54
+  s_00fe0a643fa08d::t_8aa5a74a9d713d 19,22
+  s_00fe0a643fa08d::t_c3a0080e814479 38
+  s_00fe0a643fa08d::t_e4c7080fd02fb8 36-37
+  s_00fe0a643fa08d::t_8d58accce87ade 18
+  s_00fe0a643fa08d::t_038cdf1625b15d 24
+  s_00fe0a643fa08d::t_a1b11358e205ae 14
+  s_00fe0a643fa08d::t_c810bb7aef230b 25-33,57-60
+  s_00fe0a643fa08d::t_f7ba1d99ab54b2 34-35,44-45,48-52,55-56,61-62
+  s_00fe0a643fa08d::t_809b235ee71e62 46-47
+  s_00fe0a643fa08d::t_cac17aafbccef2 1-10,12-13,15-16,23,42-43,63-64
+  s_00fe0a643fa08d::t_cfc5c377099e30 17
+  s_00fe0a643fa08d::t_1316179a596558 11,20-21
+src/presentation/ColumnFilterViewModel.h
+  s_00fe0a643fa08d::t_d5d6a591687dec 1-8,10,13-17,19-24,28-31,33-36,45-48,50,52-54
+  s_00fe0a643fa08d::t_aed2d0b4e4b02f 9,11-12,37,39-44,49
+  s_00fe0a643fa08d::t_b6262051ac61a9 38
+  s_00fe0a643fa08d::t_712e02a9584a14 27
+  s_00fe0a643fa08d::t_cb3d4234316110 18,25,32,51
+  s_00fe0a643fa08d::t_f4eba1894d34a4 26
+src/domain/ColumnValuePriorityPolicy.cpp
+  s_00fe0a643fa08d::t_15081799245611 1-8,31-34,41-43
+  s_00fe0a643fa08d::t_9149322621fd2f 15-19,30
+  s_00fe0a643fa08d::t_707bdcd6fa951f 20-21,36
+  s_00fe0a643fa08d::t_ca7a4143bf506f 9-14
+  s_00fe0a643fa08d::t_db24328940c0aa 26
+  s_00fe0a643fa08d::t_94d0c9cb21dc44 22-25,27-29,35,37-40
+src/infra/preferences/FilterPresetJsonCodec.h
+  s_00fe0a643fa08d::t_11117248111419 1-17
+app/desktop/DesktopMainViewModelFactory.h
+  s_00fe0a643fa08d::t_7732f97ea48af9 1-17
+src/platform/SamUrlBuilder.cpp
+  s_00fe0a643fa08d::t_24681f4fb6a93f 1-8,13,16,19,22-36
+  s_00fe0a643fa08d::t_11a04ff5e0d31f 9-12,14-15,17-18,20-21
+app/desktop/qml/components/AppSpinBox.qml
+  s_00fe0a643fa08d::t_089e7ddf5dfc98 1-18,21-28,36-46,48,54-69
+  s_00fe0a643fa08d::t_2f7ab06ab34046 29-35,47,49-53
+  s_00fe0a643fa08d::t_8f9d5189582be2 19-20
+src/presentation/MainSelectionFlowCoordinator.cpp
+  s_1de010d0b823b2::t_315743667f95b4 1-7,12-20
+  s_1de010d0b823b2::t_e282adafdf93e8 8-11
+scripts/project-paths.sh
+  s_00fe0a643fa08d::t_0f037ca5a047ba 1-27
+src/domain/SsaDerivationMode.h
+  s_00fe0a643fa08d::t_8405de803b61e8 1-14
+scripts/build-macos.sh
+  s_1de010d0b823b2::t_df337083125047 4-6,8-10,18-23,28-29
+  s_1de010d0b823b2::t_eeeafa678e538f 7,11-17,24-27,32-33
+scripts/smoke-macos-no-clean.sh
+  s_1de010d0b823b2::t_81de1dc23b5309 1-5,7-8,10,12,17-22,41,43-44,48,63,67-74
+  s_00fe0a643fa08d::t_6b80bd5a3b4ef5 50,64-66
+  s_00fe0a643fa08d::t_79f98bb893990a 13-14,54
+  s_00fe0a643fa08d::t_9aa6448506ee14 45-47
+  s_1de010d0b823b2::t_6aa420e64b61cd 52
+  s_1de010d0b823b2::t_36d6e7c4c6557d 11,49,51
+  s_00fe0a643fa08d::t_efe7a8deda82cf 58-61,76
+  s_00fe0a643fa08d::t_041b4e17fbc650 6,9,23-40
+  s_00fe0a643fa08d::t_4442c5d82d9720 62,75
+  s_1de010d0b823b2::t_8f182917e717c6 53,56-57
+  s_00fe0a643fa08d::t_e741acfbc9ea65 55
+  s_00fe0a643fa08d::t_d735f3ca387b50 15-16
+  s_00fe0a643fa08d::t_4d588cabc4cdcf 42
+src/presentation/BrowseQueryState.cpp
+  s_00fe0a643fa08d::t_87ba9f10e2800f 98,119
+src/platform/StartupOptions.h
+  s_00fe0a643fa08d::t_f8f9abcc3cb667 11
+  s_00fe0a643fa08d::t_10cfa75a8ce080 16
+run-macos-smoke-no-clean
+  s_00fe0a643fa08d::t_9a3a633ff5a80f 1-4
+  s_00fe0a643fa08d::t_3dbe60ee44e63f 5
+scripts/macos-paths.sh
+  s_00fe0a643fa08d::t_d7d6455377a406 1-3,12-51,54-69,71
+  s_00fe0a643fa08d::t_0c511b4a40bec0 52-53,70
+  s_00fe0a643fa08d::t_4fc50604bf9649 4-6
+  s_00fe0a643fa08d::t_0f037ca5a047ba 7-11
+tests/smoke/PresentationSmokeTest.cpp
+  s_00fe0a643fa08d::t_845265081f06d9 376-377,492
+  s_00fe0a643fa08d::t_962d4bc682bbce 378-384,465-468,491,497-499,610-611
+  s_00fe0a643fa08d::t_22b6acf566e958 390-396,400,405,411,416,418-419
+  s_00fe0a643fa08d::t_6eee9d410efebc 415
+  s_00fe0a643fa08d::t_960cd268dff60a 439-455,457-459,463-464
+  s_00fe0a643fa08d::t_0f952c95166ffa 3-5
+  s_00fe0a643fa08d::t_09663c95f8e3ed 412-414
+  s_00fe0a643fa08d::t_48c4dc4413ad85 481-485,517-519,521,524,536
+  s_00fe0a643fa08d::t_d331a2f1bbfb50 486,496
+  s_00fe0a643fa08d::t_925c9886ec917c 623
+  s_00fe0a643fa08d::t_2e4c12cec7a4d9 714
+  s_00fe0a643fa08d::t_e53cb8ed34c016 6,341-343,353,469-471,490
+  s_00fe0a643fa08d::t_6c058e69dd3e89 604-609,612-621,624-625,671-678,680-695,697-704
+  s_00fe0a643fa08d::t_44dcb6c7440b58 510,645
+  s_00fe0a643fa08d::t_1b4b4aee311f9a 420-431,433-438
+  s_00fe0a643fa08d::t_ceb864b8dbe591 407-409
+  s_00fe0a643fa08d::t_3936e903741805 17
+  s_00fe0a643fa08d::t_5b4e2b48565ed8 15,137-174,626-644,646-670,679,696
+  s_1de010d0b823b2::t_7cfd5e1b204268 289,315,731-732
+  s_1de010d0b823b2::t_80366577bf0142 207
+  s_00fe0a643fa08d::t_88d96153af4379 410
+  s_00fe0a643fa08d::t_480496a5dd06d7 344-352,354-367,397-399,406,417,460-462,472-480,487-489,493-495
+  s_00fe0a643fa08d::t_d2b6fbb1e7bbe4 1,10,175-195
+  s_00fe0a643fa08d::t_040d2004cf084c 513-516,520,522-523,525-535,537-543
+  s_00fe0a643fa08d::t_7355862b147d4c 622
+  s_00fe0a643fa08d::t_0cc0b7519bb29b 401-404,432,456
+src/presentation/BrowseInputCoordinator.cpp
+  s_1de010d0b823b2::t_2d9221bf5fbd07 32-39
+  s_1de010d0b823b2::t_36b8c7679022cb 7
+  s_1de010d0b823b2::t_587d4af5f8dd3e 1-6,8-31,40
+src/presentation/MainRequestFlowCoordinator.cpp
+  s_1de010d0b823b2::t_abb6d4ece32425 1-6,9-14
+  s_1de010d0b823b2::t_c3b5f36d153956 7-8
+src/application/FilterPresetService.cpp
+  s_00fe0a643fa08d::t_ce9f2d59b59b63 1-4,6-12,14-21
+  s_00fe0a643fa08d::t_4a454f18954f99 5
+  s_00fe0a643fa08d::t_c67b63561a4a53 13
+app/desktop/DesktopSmokeWindowLocator.cpp
+  s_00fe0a643fa08d::t_1bcb0ff2e6b469 1-24
+src/platform/SystemThemeResolver.cpp
+  s_1de010d0b823b2::t_63200708aa2d67 1-31
+scripts/lazy_scripts/package-macos.sh
+  s_1de010d0b823b2::t_89bb1a73e32707 1-7
+src/presentation/WorkflowCommandViewModel.h
+  s_00fe0a643fa08d::t_8c52e7a20acb0e 1-3,5-20,22-37,39-40,42-47
+  s_00fe0a643fa08d::t_558c9aff1e5df1 4,21,38,41
+src/presentation/BrowseInputCoordinator.h
+  s_1de010d0b823b2::t_c37116e80d1da7 1-6,8-22,24-30
+  s_1de010d0b823b2::t_91cdf6668d785a 7,23
+src/presentation/BrowseViewModel.h
+  s_00fe0a643fa08d::t_7d20d8233be3c3 59
+  s_1de010d0b823b2::t_ad3f01a496be45 83-85,92-93
+  s_00fe0a643fa08d::t_57c9bd92363bed 31,49
+src/presentation/AdvancedTextFilterRowModelFactory.h
+  s_00fe0a643fa08d::t_0f038eaff11eed 1-12
+src/platform/SamUrlBuilder.h
+  s_00fe0a643fa08d::t_24681f4fb6a93f 1-14
+src/presentation/FilterPanelDistinctValueFetcher.h
+  s_1de010d0b823b2::t_f2860ec65e90b8 29,31
+  s_1de010d0b823b2::t_395285f5d1ffe2 1-28,30,32-35
+src/presentation/FilterPanelAdvancedState.h
+  s_00fe0a643fa08d::t_869ec06d0521c3 3
+  s_00fe0a643fa08d::t_421cc11de8fa4c 57-88,90-93
+  s_00fe0a643fa08d::t_35e5edb95cd701 94
+  s_00fe0a643fa08d::t_69c4be6a7d4864 1-2,4-16,19-56,89,95-107
+  s_00fe0a643fa08d::t_c8b82e12bbefb1 17-18
+src/infra/preferences/UserPreferencesJsonCodec.cpp
+  s_00fe0a643fa08d::t_a14b38802f9cbc 73-89,123-124
+  s_00fe0a643fa08d::t_e224292d92372b 39
+  s_00fe0a643fa08d::t_fdb2d6aeb9438d 5,113,125
+app/desktop/qml/components/ColumnFilterRow.qml
+  s_00fe0a643fa08d::t_a43b030890ab3c 41-43,49-51
+  s_00fe0a643fa08d::t_012779b2e9fcef 44,47,66
+  s_00fe0a643fa08d::t_31ef71dad462a2 36-37
+  s_00fe0a643fa08d::t_2dc9a1c56a2e36 69
+  s_00fe0a643fa08d::t_68bb09c81d21a4 1-8,11-16,22-32,34-35,38-40,52-64,67-68,70
+  s_00fe0a643fa08d::t_2e6be2991a7ea7 9,33
+  s_00fe0a643fa08d::t_00983e03153694 10,17-21,45-46,48,65
+src/presentation/BrowsePageLifecycleCoordinator.cpp
+  s_1de010d0b823b2::t_31fbbccf89d6bd 1-2,5-10,12-46
+  s_1de010d0b823b2::t_64711e46c4b40f 3-4
+  s_1de010d0b823b2::t_4a7d218752b40f 11
+tests/unit/DomainTests.cpp
+  s_00fe0a643fa08d::t_15081799245611 2,26-28,30
+  s_00fe0a643fa08d::t_eb248102898f46 3,39-41,46-52,54,56,58
+  s_00fe0a643fa08d::t_6c45df0f650c53 8-12,59-72
+  s_00fe0a643fa08d::t_b61801fcd688dc 19
+  s_00fe0a643fa08d::t_eab63ba9f8044e 42-45
+  s_00fe0a643fa08d::t_c8bebd5804b122 53,55,57
+  s_00fe0a643fa08d::t_9149322621fd2f 29
+src/presentation/BrowseRequestCoordinator.cpp
+  s_1de010d0b823b2::t_9ad84680d08e89 1-6,9,11-23,28-54
+  s_1de010d0b823b2::t_c6509429097fa7 7-8,10
+scripts/run-windows.ps1
+  s_00fe0a643fa08d::t_d838df610f4da7 32-33
+  s_00fe0a643fa08d::t_4fc50604bf9649 54
+  s_1de010d0b823b2::t_8250b6b2add0f1 3,6-9,14,17-31,34-38,40-41,45-49,52-53,66-69
+  s_00fe0a643fa08d::t_62b7ef4c0a322d 16,39,42-44
+app/desktop/qml/components/SsaTable.qml
+  s_00fe0a643fa08d::t_57dddea63418d5 53
+  s_00fe0a643fa08d::t_971beb3cf51d03 165-166,168-170
+  s_00fe0a643fa08d::t_7d20d8233be3c3 78
+  s_00fe0a643fa08d::t_ecb229b83868d2 49
+  s_00fe0a643fa08d::t_e4adf92b07928c 14-16,19,51-52,66,95,146,151-152
+  s_00fe0a643fa08d::t_31690a35cf3b89 62-65
+  s_00fe0a643fa08d::t_ab36e7fed264db 99-101
+  s_00fe0a643fa08d::t_92fd2451cd0f0d 139-141,143,154,158-159,164,167
+  s_00fe0a643fa08d::t_49772dd5160c16 114
+src/ports/IFilterPresetStore.h
+  s_00fe0a643fa08d::t_2f5a1693dd0314 10
+  s_00fe0a643fa08d::t_e103cf1f1315d5 1-9,11-22
+scripts/package-debian.sh
+  s_1de010d0b823b2::t_45fc5c695a4f72 10
+  s_1de010d0b823b2::t_6424e8b41b3ca1 1-9,11-25
+src/presentation/MainPreferenceFlowCoordinator.h
+  s_00fe0a643fa08d::t_0c64a5331e5906 10,12,36,55-58,65
+  s_00fe0a643fa08d::t_925c9886ec917c 42
+  s_00fe0a643fa08d::t_5f0501c5b11d7f 46-48,50
+  s_00fe0a643fa08d::t_88f7f838a578d0 49
+  s_00fe0a643fa08d::t_bfed78e78b6fe3 3,34,64
+  s_1de010d0b823b2::t_64db4ad8946195 19-20
+  s_00fe0a643fa08d::t_5f9c12b3ea5b82 31-32,35
+  s_00fe0a643fa08d::t_025e126fb0c683 21-25,66
+  s_1de010d0b823b2::t_c2e43255f6600c 1-2,5-9,17-18,29-30,37-41,53-54,59-62,67-69
+  s_00fe0a643fa08d::t_3be0ee7f585f65 4,13,15-16,33,43-44,63
+  s_1de010d0b823b2::t_3ed65fab73fb82 11,14,26-28,45,51-52
+src/presentation/DesktopActionsViewModel.cpp
+  s_00fe0a643fa08d::t_c176086a6d3e03 1-46
+src/infra/preferences/FilterPresetJsonCodec.cpp
+  s_00fe0a643fa08d::t_2f5a1693dd0314 19,26-27
+  s_00fe0a643fa08d::t_11117248111419 1-2,4-18,20-25,28-31
+  s_00fe0a643fa08d::t_ff511ad6384318 3
+tests/integration/JsonPreferencesStoreTests.cpp
+  s_00fe0a643fa08d::t_359f0100d15ff2 128-152
+  s_00fe0a643fa08d::t_278b3dd9e7c437 2,29-45,59-76,108-109,125-126
+  s_00fe0a643fa08d::t_283a412974fda6 110-124
+src/presentation/FilterPanelViewModel.cpp
+  s_00fe0a643fa08d::t_707bdcd6fa951f 26
+  s_00fe0a643fa08d::t_abbd2fdc507e62 20-24,27-29,32-33,35,41-46,234
+  s_00fe0a643fa08d::t_175b1f4b94ff17 198
+  s_00fe0a643fa08d::t_d079026d0e8a30 186-187,202-203,224-225,230-231,236,241,258,262-263,266-269,272-273,275,350-352,356-359
+  s_00fe0a643fa08d::t_d46e7bc7393bee 147
+  s_00fe0a643fa08d::t_eb00b431ea9ad2 8
+  s_00fe0a643fa08d::t_881a69a087c896 154-155
+  s_00fe0a643fa08d::t_15081799245611 4
+  s_00fe0a643fa08d::t_8e604c45621710 190,278
+  s_00fe0a643fa08d::t_e1cd28117b1a03 18,36-37
+  s_00fe0a643fa08d::t_d5d6a591687dec 60-61,70-71,158-159,253,288,307
+  s_00fe0a643fa08d::t_83ee2586aacad5 100-101,286,305,320-321,323,325,327-328,330-331
+  s_00fe0a643fa08d::t_492156dcc4e51e 136,240,243
+  s_00fe0a643fa08d::t_f3da7ebc90a580 194
+  s_00fe0a643fa08d::t_11f9ae7aad3dc9 300
+  s_00fe0a643fa08d::t_100d094e24f629 17
+  s_1de010d0b823b2::t_b1892085534d8a 183
+  s_00fe0a643fa08d::t_ca7a4143bf506f 25,30,216
+  s_00fe0a643fa08d::t_6794afcbbe926d 10
+  s_00fe0a643fa08d::t_3ef7787ae87769 89-94,242,360-362,364
+  s_00fe0a643fa08d::t_2be238789ce63e 162-163
+  s_00fe0a643fa08d::t_ec3012dc747865 228-229,261
+  s_00fe0a643fa08d::t_eb58d6c5d54097 274
+  s_1de010d0b823b2::t_2b2d63ea0ebe31 283
+  s_00fe0a643fa08d::t_0794cecba2cdfd 73-75
+  s_00fe0a643fa08d::t_f4eba1894d34a4 39,68-69,297
+  s_00fe0a643fa08d::t_cbbaebd327e1e4 59
+  s_00fe0a643fa08d::t_3ee856320ff903 207-209,213-215,219-221
+  s_00fe0a643fa08d::t_69c4b4b52d86d7 254,289,308,338,340-345,354-355
+  s_00fe0a643fa08d::t_99b4181bc8dc37 64-67
+  s_00fe0a643fa08d::t_053bef0823d696 79
+  s_1de010d0b823b2::t_11af480f8b2a80 298
+  s_1de010d0b823b2::t_1ad24f8253f781 348
+  s_00fe0a643fa08d::t_db24328940c0aa 38,40,48,51,204,210-212,233,235,353
+  s_00fe0a643fa08d::t_b9f8d2b40986fc 287,306
+  s_00fe0a643fa08d::t_f62bcdc5ee45ef 11
+  s_00fe0a643fa08d::t_ccfff1fb42beb3 62,72,76-78,86-88
+  s_00fe0a643fa08d::t_d3d1ea9fe173b3 313-316,339,363,365-368
+  s_1de010d0b823b2::t_b0a7de4c86f28e 129,133,140,144,175,179,250,293,304
+  s_1de010d0b823b2::t_3007e067058415 5
+  s_00fe0a643fa08d::t_d0d2a3ab3c90c9 19,49-50,232
+  s_00fe0a643fa08d::t_a08d7161e935f7 95-97,99,279,318-319,349
+  s_1de010d0b823b2::t_e85639a146142a 98,166-167,170-171,174,178,182,237,324,346-347,369-370
+  s_00fe0a643fa08d::t_d32596d9212978 326
+  s_00fe0a643fa08d::t_b85eb751d8a9d3 63
+  s_00fe0a643fa08d::t_1027a790d5c824 102-105,109,113,117,121,191,195,199,244-245
+src/presentation/FilterPanelDistinctValuesController.h
+  s_00fe0a643fa08d::t_870fe983191557 56
+  s_00fe0a643fa08d::t_c2995502d372e9 41-43
+  s_00fe0a643fa08d::t_a6d071e61ff25f 50
+  s_00fe0a643fa08d::t_e26b500c8f2f4e 1-39,48-49,51-55,57-59,62-64
+  s_00fe0a643fa08d::t_fde1c996c8649e 40,44-45,60-61
+  s_00fe0a643fa08d::t_658febb699f581 46-47
+src/presentation/MainViewModel.cpp
+  s_00fe0a643fa08d::t_bfed78e78b6fe3 17-18
+  s_00fe0a643fa08d::t_5f9c12b3ea5b82 16,72-73
+  s_1de010d0b823b2::t_c922262fa12e33 32-35
+  s_00fe0a643fa08d::t_c176086a6d3e03 15,26,48-49
+  s_1de010d0b823b2::t_9cf774ada20801 27
+  s_00fe0a643fa08d::t_d347582c4e3f6f 22-25
+  s_00fe0a643fa08d::t_5f0501c5b11d7f 28,31,36-39
+  s_1de010d0b823b2::t_d60d3f47e6c4d2 60-61,64-65,68-69
+  s_00fe0a643fa08d::t_a979bc71da8bea 12,19-21
+  s_00fe0a643fa08d::t_c3c6c39c18d6d2 40-41
+src/presentation/FilterPanelDistinctValueRequestBuilder.cpp
+  s_00fe0a643fa08d::t_6259aaa9df9e2f 32-33,35-40,42
+  s_00fe0a643fa08d::t_5ec778d8ccc74b 20,46
+  s_00fe0a643fa08d::t_e1cd28117b1a03 1-11,21-22,24-31,34,41,43-45,47-50,52-61
+  s_00fe0a643fa08d::t_8538300a80242c 12-19,23
+  s_00fe0a643fa08d::t_cdf5f579e58e37 51
+src/presentation/AdvancedWeekFilterViewModel.cpp
+  s_00fe0a643fa08d::t_328d6a9ad4f450 1-114
+app/desktop/qml/components/AdvancedWeekFilterCard.qml
+  s_00fe0a643fa08d::t_a786fb883a8062 1-21,23-24,26-63,65-113
+  s_00fe0a643fa08d::t_22205ed4e2c866 22,25,64
+src/presentation/MainColumnFlowCoordinator.h
+  s_1de010d0b823b2::t_1713a188ceeabf 1-2,5-11,15-18,20,22-32
+  s_1de010d0b823b2::t_fb77e5ca5e8b84 3-4,12-14,19,21
+src/query/SqlQueryBuilder.cpp
+  s_00fe0a643fa08d::t_3e0efea5b6831b 43,47,49-50
+  s_00fe0a643fa08d::t_4cd6b98dde6e5e 29-31
+app/desktop/qml/components/FilterFieldLabel.qml
+  s_00fe0a643fa08d::t_9e73f05499fc05 8
+  s_00fe0a643fa08d::t_941f71ba6a4eb8 1-7,9
+src/presentation/ActionStatusCoordinator.cpp
+  s_00fe0a643fa08d::t_d347582c4e3f6f 18-22,26-41,68,72-73,77,81-82,86,90-91
+  s_1de010d0b823b2::t_da69700ee3d441 1-12,16-17,23-25,42-46,48,51-58,63-67,69-71,74-76,78-80,92-99
+  s_00fe0a643fa08d::t_5f9c12b3ea5b82 13-15,47,49-50,59-62,83-85,87-89
+scripts/run-macos.sh
+  s_00fe0a643fa08d::t_efe7a8deda82cf 41-44,47-48,50,55-59
+  s_00fe0a643fa08d::t_6b80bd5a3b4ef5 46,52-54
+  s_1de010d0b823b2::t_9573a4d22bb877 4-11,13,15-28,34-35,68,71-72
+  s_00fe0a643fa08d::t_7225c261e381ff 66-67,69-70,73-74
+  s_00fe0a643fa08d::t_7802b649935a68 60-62
+  s_00fe0a643fa08d::t_9aa6448506ee14 36-40,49
+  s_00fe0a643fa08d::t_308a8a81c7e6a5 12,14,51
+app/desktop/main.cpp
+  s_00fe0a643fa08d::t_34d2aa6e076610 64-66,68
+  s_00fe0a643fa08d::t_84374ba8ea3410 1,47,49,59-60
+  s_00fe0a643fa08d::t_cca2ce1c777eed 33-34
+  s_00fe0a643fa08d::t_9d5d5f30a407f8 36
+  s_00fe0a643fa08d::t_50e518f663f870 39-40
+  s_00fe0a643fa08d::t_b78d4c64e43648 43-44
+src/presentation/BrowseOrchestrator.cpp
+  s_00fe0a643fa08d::t_f7ead77a4ec0ab 23-27
+  s_1de010d0b823b2::t_9dd8a658ff9305 13-14,16-21,49,102,107,113,118,124,146
+  s_1de010d0b823b2::t_00aaceb1a263b4 11,28
+  s_00fe0a643fa08d::t_259baee2ea81d4 12,78
+  s_1de010d0b823b2::t_f3a4683241551e 15,22,65,103,142,145
+  s_00fe0a643fa08d::t_bacb4e53f52ce7 87
+  s_1de010d0b823b2::t_4ab539f8ee5aad 134-136
+scripts/package-windows.ps1
+  s_1de010d0b823b2::t_3b42c83b673159 4,6-7,30,33,57
+  s_1de010d0b823b2::t_3cc5c19dd251c2 160,174
+  s_1de010d0b823b2::t_e293a473ed624d 154,158
+  s_1de010d0b823b2::t_4d6fba8de93ba2 194-203,205-207
+  s_1de010d0b823b2::t_550da8f37655a2 144,148,151
+  s_1de010d0b823b2::t_0f74ace5e3e2fe 26,32,36,145-147,149-150,152,190
+  s_1de010d0b823b2::t_6bc25294f44f0a 105,111-113,124
+  s_1de010d0b823b2::t_e12b57b7ad0c0a 48-50,55-56
+  s_1de010d0b823b2::t_d81c799988992f 109
+  s_1de010d0b823b2::t_90117131474fe9 189,191-193
+  s_1de010d0b823b2::t_5b70d570e5c0cf 141-143
+  s_1de010d0b823b2::t_2ede1dafc0f4ad 38,114-118,121-123
+  s_1de010d0b823b2::t_845d93b2956bfd 119-120
+  s_1de010d0b823b2::t_c3d91b6eaa110c 19,62
+  s_1de010d0b823b2::t_d2dbcec7ff9885 126,181-186
+  s_1de010d0b823b2::t_260dfe6fb23604 5,47
+  s_1de010d0b823b2::t_58204f744d99ef 1-2,10-18,20-24,29,31,37,39-46,52-54,58-60,63,65-66,70-78,82-100,102-104,129-133,135-139,153,159,161-165,169-171,173,175-179,187-188
+  s_1de010d0b823b2::t_89c372a1725100 25,106-108,110
+  s_1de010d0b823b2::t_ae90c65f0230da 27
+  s_1de010d0b823b2::t_b5ff46df3d23c0 3,51
+  s_1de010d0b823b2::t_3857f9b6b9bfdd 28
+  s_1de010d0b823b2::t_af9fd6d80ce792 8-9,67-69,156
+  s_1de010d0b823b2::t_e9dc3467104c75 101,125,127-128,134
+  s_1de010d0b823b2::t_77d08a7655ec8a 64
+  s_1de010d0b823b2::t_1a254874904cc1 168
+  s_1de010d0b823b2::t_7c4421af35dfd0 34-35,61,166
+  s_1de010d0b823b2::t_10f2cfb10529a4 79-81
+  s_1de010d0b823b2::t_f6f942691efda9 140,180
+  s_1de010d0b823b2::t_23e47e81fe991a 167,172
+  s_1de010d0b823b2::t_85e0ddcf5f4cf6 204,208
+  s_1de010d0b823b2::t_74255bf7d95f24 155,157
+config/ssa_cpp_preferences.json.example
+  s_00fe0a643fa08d::t_ecb33ecf800acb 1
+app/desktop/DesktopMainViewModelFactory.cpp
+  s_00fe0a643fa08d::t_52073ca89d84e5 20-22,27,29-32,34-35,45-47,51-52
+  s_00fe0a643fa08d::t_6ffa97ae513470 1-19,23-26,28,33,36-44,48-50,53-55
+app/desktop/DesktopSmokeWindowLocator.h
+  s_00fe0a643fa08d::t_e258ce6231412a 1-13
+src/application/FilterPresetService.h
+  s_00fe0a643fa08d::t_ce9f2d59b59b63 1-9,13-15
+  s_00fe0a643fa08d::t_4a454f18954f99 10
+  s_00fe0a643fa08d::t_c67b63561a4a53 11-12
+app/desktop/qml/components/FilterCard.qml
+  s_00fe0a643fa08d::t_32814d2a626355 1-20
+scripts/run-debian.sh
+  s_00fe0a643fa08d::t_0f037ca5a047ba 35-42,44-46,50
+  s_1de010d0b823b2::t_5b40056c37872f 4-8,10,14,17-28
+  s_1de010d0b823b2::t_3b3621b65bacfc 9,11-13,15-16,34,47-48,56
+  s_00fe0a643fa08d::t_308a8a81c7e6a5 43
+src/presentation/MainRequestFlowCoordinator.h
+  s_1de010d0b823b2::t_5b15864beb92d7 3-4,8-10,13,15
+  s_1de010d0b823b2::t_19a5806334071f 1-2,5-7,11-12,14,16-22
+scripts/lib/package_common.sh
+  s_1de010d0b823b2::t_ee9a79c9995868 98-99,101,105-109
+  s_1de010d0b823b2::t_a8cb6fbade0c92 39-48
+  s_1de010d0b823b2::t_f4ffede231b2bd 29-35
+  s_1de010d0b823b2::t_d7849701b02ff6 91,130,133-136
+  s_1de010d0b823b2::t_a417be9ef70e4f 1-18,26-28,37-38,60-67,86-88,93-97,110-112,127-129,131,137
+  s_1de010d0b823b2::t_2f33bf41411905 19-25
+  s_1de010d0b823b2::t_da9614ed3eaa72 36
+  s_1de010d0b823b2::t_4fffde7b2e22ac 49-59,100,102-104
+  s_1de010d0b823b2::t_34d6351b08eb4b 68-85
+  s_1de010d0b823b2::t_63b3a31219bd98 89
+  s_1de010d0b823b2::t_50dc8db527b502 90,92,116-126
+  s_1de010d0b823b2::t_e9f37f79968661 132
+src/presentation/FilterPanelStateHelpers.cpp
+  s_00fe0a643fa08d::t_ecefe8af58bffd 95
+  s_00fe0a643fa08d::t_7045ad6378ef7d 23,25-43,116-118
+  s_1de010d0b823b2::t_7df15f0a9d9f24 22,129,133
+  s_00fe0a643fa08d::t_44dcb6c7440b58 24
+  s_00fe0a643fa08d::t_e1f91cd8fbc9e8 5
+  s_00fe0a643fa08d::t_aad460e564b55c 80
+  s_00fe0a643fa08d::t_e8ed9bb3cfc9a3 9-21,44,46-49,51-54,56-61,63-79,81-83,127-128,130-132,135-137,139-145,147-162,164-165
+  s_1de010d0b823b2::t_4ca3491f182e9b 1-4,6,8,45,50,55,62,134,138,146,163,166
+  s_00fe0a643fa08d::t_d32596d9212978 7,167
+  s_00fe0a643fa08d::t_0085ad74890773 84-94,96-115,119-126
+src/presentation/MainViewModel.h
+  s_1de010d0b823b2::t_c5dd00cde0d6f3 10,59
+  s_00fe0a643fa08d::t_c176086a6d3e03 8,26,43,60
+  s_00fe0a643fa08d::t_65966e64b4fe55 38
+  s_1de010d0b823b2::t_4105223abe6c81 9,11-12,61-63
+  s_1de010d0b823b2::t_cf15bbc75ae4bd 29-31,46-48
+  s_00fe0a643fa08d::t_5f9c12b3ea5b82 32,49
+  s_00fe0a643fa08d::t_5f0501c5b11d7f 52
+  s_00fe0a643fa08d::t_bfed78e78b6fe3 3,58
+src/presentation/FilterPanelStateHelpers.h
+  s_1de010d0b823b2::t_c7ec360f60add4 1-11,13,15,17,19,26,29
+  s_00fe0a643fa08d::t_aad460e564b55c 14,16,18,20-25,27-28
+  s_00fe0a643fa08d::t_d32596d9212978 12,30
+src/presentation/AdvancedTextFilterRowModelFactory.cpp
+  s_00fe0a643fa08d::t_cdec98c8841eba 14-15
+  s_00fe0a643fa08d::t_076e7298efc97c 26-27
+  s_00fe0a643fa08d::t_36f047a20b442e 7-8
+  s_00fe0a643fa08d::t_a9b98b9a492b50 1-6,9-13,16-25,28-33
+src/presentation/ColumnSettingsModel.h
+  s_00fe0a643fa08d::t_f3da7ebc90a580 26
+  s_00fe0a643fa08d::t_d347582c4e3f6f 3-4,46
+src/presentation/DetailsViewModel.cpp
+  s_00fe0a643fa08d::t_aa846a6e77e460 82-85
+  s_00fe0a643fa08d::t_c8bebd5804b122 11-22,25
+  s_00fe0a643fa08d::t_eb248102898f46 3,5,23,26-27,30-31,33-35,37,65
+  s_00fe0a643fa08d::t_8eea1a73fd30a1 4,9-10,24,28,32,38-41,73,86-91
+  s_00fe0a643fa08d::t_c9e5dcb88538f3 6
+  s_00fe0a643fa08d::t_d821c89ec64824 36
+src/domain/ColumnValuePriorityPolicy.h
+  s_00fe0a643fa08d::t_15081799245611 1-9
+src/presentation/FilterPanelDistinctValuesController.cpp
+  s_00fe0a643fa08d::t_50d0d14615ec2e 1-8,21-58,60-63,65-67,70-78,80-83,88-91,93-98
+  s_00fe0a643fa08d::t_2583b7d989247a 59,64
+  s_00fe0a643fa08d::t_1ed1402f371703 69
+  s_00fe0a643fa08d::t_24818f5b478f5a 85-86
+  s_00fe0a643fa08d::t_98a74f5a4737e2 9-20,68,79,84,92
+  s_00fe0a643fa08d::t_3be87a1250b7f9 87
+app/desktop/DesktopSmokeScreenshotCapture.cpp
+  s_00fe0a643fa08d::t_a2b7b810c95142 63-66,71
+  s_00fe0a643fa08d::t_0a486f39efba2a 52-55,76-83
+  s_00fe0a643fa08d::t_f1800ba5f60c8a 1-51,56-62,67-70,72-75,84-92
+app/desktop/qml/components/AdvancedFilterPanel.qml
+  s_00fe0a643fa08d::t_2895d256001aef 1-3,5-27,31-32,37-38,43-46
+  s_00fe0a643fa08d::t_9f39a40219ffe2 4
+  s_00fe0a643fa08d::t_0bdb3c03c1f5d7 28-30,33-36,39-42
+docs/contracts/preferences-schema.md
+  s_1de010d0b823b2::t_e2baab81c25c28 14,50
+  s_00fe0a643fa08d::t_7873478c87a45d 22,26-32,44
+scripts/package-macos.sh
+  s_1de010d0b823b2::t_c148de920301c3 27
+  s_1de010d0b823b2::t_e3d0936999d4f1 1-6,8-15,24-26,28-35,39,41,96-99,108-110,114-127,129-131,134-135,138-141,146,152,169-177,184
+  s_1de010d0b823b2::t_86a5eff07df39e 103-105
+  s_1de010d0b823b2::t_adc59ae4aee097 38,132-133,136-137
+  s_1de010d0b823b2::t_5c16a05e39f682 153-162,168,183
+  s_1de010d0b823b2::t_1ae8e0186c1f7f 44-45,142-145,147-151
+  s_1de010d0b823b2::t_ee3e679e91c76c 7,22,40,68-71,111-113,180
+  s_1de010d0b823b2::t_b07925b7562c23 42
+  s_1de010d0b823b2::t_e6178352d2d2b8 163-164,166-167,178-179,181-182
+  s_1de010d0b823b2::t_5f8d7d489d866a 95
+  s_1de010d0b823b2::t_0f2c8911f30f84 91-94
+  s_1de010d0b823b2::t_3234e946b33814 100-102,106-107
+  s_1de010d0b823b2::t_1162e293ac0ab9 36-37
+  s_1de010d0b823b2::t_1b084ecef1caf3 84-87
+  s_1de010d0b823b2::t_da6dd593e732e7 128
+  s_1de010d0b823b2::t_924f08bfb398d1 165
+  s_1de010d0b823b2::t_9c7bae038b0226 16-21,23,43,46-67,72-83,88-90
+src/presentation/CurrentWeekViewModel.h
+  s_00fe0a643fa08d::t_8c52e7a20acb0e 1-23
+CMakeLists.txt
+  s_00fe0a643fa08d::t_c176086a6d3e03 108
+  s_1de010d0b823b2::t_b7d5ca5685ca53 129
+  s_1de010d0b823b2::t_93c8b708dd7dc0 243,259
+  s_00fe0a643fa08d::t_64d526afbbb088 180,182-183
+  s_00fe0a643fa08d::t_b64203a461b05d 277-282
+  s_00fe0a643fa08d::t_d5d6a591687dec 105
+  s_00fe0a643fa08d::t_b5fc21f3d3e711 181
+  s_1de010d0b823b2::t_e12af62e83f5f3 77
+  s_00fe0a643fa08d::t_56fa7880e9ddf6 83,95,166,215,220,252-255,257,266-268
+  s_00fe0a643fa08d::t_6be4f28f3ea5e0 185
+  s_00fe0a643fa08d::t_06c6c7a11733a4 158
+  s_00fe0a643fa08d::t_950a727ec3f876 121
+  s_1de010d0b823b2::t_5a3bf4edc5ceda 102
+  s_00fe0a643fa08d::t_b7c4816d83c450 64,66
+  s_00fe0a643fa08d::t_ce9f2d59b59b63 49
+  s_00fe0a643fa08d::t_f73ca9d0f290e8 161-162
+  s_00fe0a643fa08d::t_fd043df2974008 111
+  s_00fe0a643fa08d::t_ff511ad6384318 65
+  s_00fe0a643fa08d::t_0f7d099ce35e5e 112
+  s_00fe0a643fa08d::t_cd06144ec0d3cf 188
+  s_00fe0a643fa08d::t_63ae7c0f450eeb 189
+  s_00fe0a643fa08d::t_0fc172b65ddcf2 119
+  s_00fe0a643fa08d::t_089e7ddf5dfc98 176-177
+  s_00fe0a643fa08d::t_0c5ac90d3bd090 43
+  s_1de010d0b823b2::t_99a75c7d690a2f 72-73,81-82,84,201
+  s_1de010d0b823b2::t_f3e475b26c329f 99,101
+  s_1de010d0b823b2::t_ae7411e01319fc 85,91-94,96-97,141-142,144,150-154
+  s_1de010d0b823b2::t_24b8571ec96ec7 103,124
+  s_00fe0a643fa08d::t_5f9c12b3ea5b82 107,135-136
+  s_00fe0a643fa08d::t_1f403c927c38df 202
+  s_00fe0a643fa08d::t_eb248102898f46 36
+  s_00fe0a643fa08d::t_e713fca8e3d68a 159
+  s_00fe0a643fa08d::t_c14e076c33a1b2 249,256
+  s_00fe0a643fa08d::t_1a2b2fab071636 250
+  s_00fe0a643fa08d::t_e1cd28117b1a03 120
+  s_00fe0a643fa08d::t_6a7c60428a62f8 113-115
+  s_1de010d0b823b2::t_12a12017638c07 128,130-131
+  s_00fe0a643fa08d::t_cb338dcdfabf26 110
+  s_00fe0a643fa08d::t_1f49d8d8ae4968 179,187
+  s_00fe0a643fa08d::t_9b667e5d6c13a0 122
+  s_00fe0a643fa08d::t_bc77b06d72036a 116
+  s_00fe0a643fa08d::t_b9d6bfd00fa64b 3
+  s_00fe0a643fa08d::t_24681f4fb6a93f 79
+  s_1de010d0b823b2::t_c64ac7c0204dbb 132,200
+  s_1de010d0b823b2::t_12ec876642b752 118,123
+  s_00fe0a643fa08d::t_68bb09c81d21a4 186
+  s_00fe0a643fa08d::t_15081799245611 35
+src/presentation/WorkflowCommandRunner.h
+  s_00fe0a643fa08d::t_558c9aff1e5df1 1-34
+scripts/lazy_scripts/run-debian.sh
+  s_1de010d0b823b2::t_68e244e8d0455b 1-82
+tests/unit/SqlQueryBuilderTests.cpp
+  s_00fe0a643fa08d::t_bef494a558caef 5-6
+  s_00fe0a643fa08d::t_bbb40a4934af21 53-78
+src/presentation/FilterPanelViewModel.h
+  s_00fe0a643fa08d::t_69c4b4b52d86d7 102
+  s_1de010d0b823b2::t_ceb803db7e23ce 107
+  s_00fe0a643fa08d::t_f40b675f59ecdf 66
+  s_00fe0a643fa08d::t_504d864f38cf86 108
+  s_00fe0a643fa08d::t_2003c411419bf4 106,124
+  s_00fe0a643fa08d::t_d3d1ea9fe173b3 109,119
+  s_00fe0a643fa08d::t_e0d43696a1be79 16
+  s_00fe0a643fa08d::t_3ee856320ff903 79-80
+  s_00fe0a643fa08d::t_d5d6a591687dec 5,43,65,114
+  s_1de010d0b823b2::t_7b7836e4b632d1 9,111
+  s_00fe0a643fa08d::t_3785b3a5619155 8,44,115
+  s_00fe0a643fa08d::t_5a0b9cb2dfb09a 101
+  s_00fe0a643fa08d::t_ca7a4143bf506f 77-78
+  s_00fe0a643fa08d::t_f3da7ebc90a580 69
+  s_00fe0a643fa08d::t_db24328940c0aa 30-35,120
+  s_00fe0a643fa08d::t_3dfb4ba865de29 12,45-46,67,76,81,104,121-122
+  s_00fe0a643fa08d::t_4ca4d013c1502c 22
+  s_00fe0a643fa08d::t_ccfff1fb42beb3 98-99
+  s_00fe0a643fa08d::t_7cab2066820e07 7,123
+  s_00fe0a643fa08d::t_55b523dc6be8d3 6,42,64,116
+  s_1de010d0b823b2::t_409f9f95d96961 15
+  s_00fe0a643fa08d::t_8e604c45621710 68
+  s_00fe0a643fa08d::t_175b1f4b94ff17 70
+  s_00fe0a643fa08d::t_e01c03ee171df2 83,103
+  s_00fe0a643fa08d::t_492156dcc4e51e 105
+tests/unit/StartupOptionsTests.cpp
+  s_00fe0a643fa08d::t_d9f4d162e52269 57-58,63-64,73
+  s_00fe0a643fa08d::t_11a04ff5e0d31f 74-82
+  s_00fe0a643fa08d::t_24681f4fb6a93f 1,65-72
+  s_00fe0a643fa08d::t_40dd3bc1f2a64b 3-13,15-20,25-27,32-37,49,54-56
+  s_00fe0a643fa08d::t_4c6b07592d2ff3 21-24,30-31,52-53,61-62
+  s_00fe0a643fa08d::t_04ec9588e769cf 14,28-29,50-51,59-60
+  s_00fe0a643fa08d::t_f8f9abcc3cb667 38-48
+scripts/debian-paths.sh
+  s_00fe0a643fa08d::t_0f037ca5a047ba 1-12
+src/presentation/AdvancedDerivationFilterViewModel.cpp
+  s_00fe0a643fa08d::t_da2e0388315093 39
+  s_00fe0a643fa08d::t_3b8fea8f92a634 1-38,40-46
+src/query/TextFilterToken.cpp
+  s_00fe0a643fa08d::t_bbd8322b762e34 1-2,5,84-86,102-104,166-167,172,181,187-188,193
+  s_00fe0a643fa08d::t_53e38a731387bd 140-152
+  s_00fe0a643fa08d::t_b914f6b907dc38 99-100,173-174,178-179
+  s_00fe0a643fa08d::t_77fa04eb13f4ab 76,80,83
+  s_00fe0a643fa08d::t_4a8854dcffc409 90-96
+  s_00fe0a643fa08d::t_8dbf6bdf241de9 189,191-192
+  s_00fe0a643fa08d::t_ea80358e780607 111
+  s_00fe0a643fa08d::t_bb92d1342d4f30 3-4
+  s_00fe0a643fa08d::t_5e90e6b7465547 9-11,19-71,105,115,136-137,156-159,163,176-177
+  s_00fe0a643fa08d::t_b24b8ad88cd831 77-79,113-114
+  s_00fe0a643fa08d::t_f968108fef4b38 6-8,12-18,72-75,106-110,112,116-127,130-135,138-139,153-155,160-162,164-165,170,175
+  s_00fe0a643fa08d::t_4298d6c36958ca 81-82
+  s_00fe0a643fa08d::t_60819b16ca3462 87-89,97-98,101,168-169,180,182,185-186,190
+  s_00fe0a643fa08d::t_11c88b8b8fb6bf 128-129,171,183-184
+src/presentation/AdvancedTextFilterColumnStore.cpp
+  s_00fe0a643fa08d::t_cc5714de2b0f01 57
+  s_00fe0a643fa08d::t_e146fabdeba83c 1-3,5-10,21-28,30-33,35-36,50-52,89-90,94-96
+  s_00fe0a643fa08d::t_5e6ec0d2064575 13-14,58
+  s_00fe0a643fa08d::t_83f13ab5839c8c 11-12,15,17-19,78-79
+  s_00fe0a643fa08d::t_b6aa180e08741f 20,40
+  s_00fe0a643fa08d::t_1cc740279b42bd 37-38,46,49
+  s_00fe0a643fa08d::t_3f1f2661242a07 39
+  s_00fe0a643fa08d::t_8bf9b2c8a2e901 41-45
+  s_00fe0a643fa08d::t_2cd5c62939906d 64-70,75-77
+  s_00fe0a643fa08d::t_139daa6f057063 91-92
+  s_00fe0a643fa08d::t_395f69b9217c81 16
+  s_00fe0a643fa08d::t_fc5b0020fab6ed 47-48
+  s_00fe0a643fa08d::t_17a32c60f7df7a 71-74,83-86
+  s_00fe0a643fa08d::t_633b275eb9971c 4
+  s_00fe0a643fa08d::t_a1cf366e60194b 93
+  s_00fe0a643fa08d::t_f744309cddd2de 29,34,53-56,59-63
+  s_00fe0a643fa08d::t_63d5e8a125702b 80-82,87-88
+scripts/smoke-macos-core.sh
+  s_00fe0a643fa08d::t_d7d6455377a406 4-7
+  s_1de010d0b823b2::t_d30cad21174280 1-3,65-72,75,85,90-91,94-95,98
+  s_00fe0a643fa08d::t_3694e3019e014b 73,92-93
+  s_00fe0a643fa08d::t_4442c5d82d9720 74
+  s_00fe0a643fa08d::t_7225c261e381ff 9-15,17-23,27-50,96
+  s_00fe0a643fa08d::t_71489c9af27726 8,24,26
+  s_00fe0a643fa08d::t_5aa47fb952e6fe 16,25,97
+  s_00fe0a643fa08d::t_312d91eebd27fe 86-89
+  s_00fe0a643fa08d::t_a2153f82a5e5e6 51-64,76
+  s_00fe0a643fa08d::t_68e3e69b3f8c59 77-84
+src/domain/ColumnCatalog.h
+  s_00fe0a643fa08d::t_bc02688382fa0c 36
+  s_00fe0a643fa08d::t_0d709529125d57 53
+  s_00fe0a643fa08d::t_9b3bd99e8eda30 44
+  s_00fe0a643fa08d::t_17eb0ff6146a18 48
+  s_00fe0a643fa08d::t_803f4082594fd8 35
+  s_00fe0a643fa08d::t_bd193eb2a16b11 37
+  s_00fe0a643fa08d::t_184742ff42ec96 52
+  s_00fe0a643fa08d::t_116765ab63b4d9 45-46
+src/infra/preferences/JsonFilterPresetStore.h
+  s_00fe0a643fa08d::t_e103cf1f1315d5 1-14
+src/presentation/CurrentWeekViewModel.cpp
+  s_00fe0a643fa08d::t_8c52e7a20acb0e 1-21
+scripts/lazy_scripts/package-windows.ps1
+  s_1de010d0b823b2::t_56bc2a5b2c2c35 1-25
+src/presentation/AdvancedTextFilterViewModel.cpp
+  s_00fe0a643fa08d::t_c139091c7d16f9 10-11,36
+  s_00fe0a643fa08d::t_dfe1cbb9ac9c5e 90-92,98,106
+  s_00fe0a643fa08d::t_6321fde937f168 45-46
+  s_00fe0a643fa08d::t_98970b08c5e2b8 1-2,4-8,14-17,58-64,68-69,75,77-78,107-109
+  s_00fe0a643fa08d::t_bd6cf06fc00579 70
+  s_00fe0a643fa08d::t_d1dbd1e042c727 38-40
+  s_00fe0a643fa08d::t_a9e7fd3cb8b28a 9,20-23
+  s_00fe0a643fa08d::t_5420a6433b6407 12,30-35,37,41
+  s_00fe0a643fa08d::t_abbce29a5bb9ef 29,66,88
+  s_00fe0a643fa08d::t_e4c7080fd02fb8 44,47-48
+  s_00fe0a643fa08d::t_4693ae2794d6e4 28,42-43,49-50,53-54,56-57
+  s_00fe0a643fa08d::t_f3b1f15fb44464 71,73,93,97,101
+  s_00fe0a643fa08d::t_181a14f2bd9831 72
+  s_00fe0a643fa08d::t_b954400bdf24d0 74
+  s_00fe0a643fa08d::t_965ed4caddd2f5 76,94-95,99
+  s_00fe0a643fa08d::t_e647a19a5263b4 89,96
+  s_00fe0a643fa08d::t_a7f50b82a58d10 65
+  s_00fe0a643fa08d::t_887261604376c8 85-87
+  s_00fe0a643fa08d::t_f94023378c0ad6 79-81,83-84
+  s_00fe0a643fa08d::t_6cd8b8220fe23c 51-52
+  s_00fe0a643fa08d::t_2deee1929de9d9 82
+  s_00fe0a643fa08d::t_0a88e84a159bf6 13,18-19,24-27,55,67,100,102-105
+  s_00fe0a643fa08d::t_47fec0812ae9c6 3
+README.md
+  s_1de010d0b823b2::t_c0f86611b57260 445-446,448-449,454-456,459-460,469-470,477-478,522-523
+  s_1de010d0b823b2::t_2d07ca1f445d78 447,461-468
+  s_1de010d0b823b2::t_d37ed117681bc7 384-390,413-424,432
+  s_1de010d0b823b2::t_c1e0408dc9950a 77-78,80-81,83-85,93
+  s_1de010d0b823b2::t_74327d69dca327 483-484,504
+  s_1de010d0b823b2::t_a49f12ea086717 68
+  s_1de010d0b823b2::t_9daf5d0653b30f 372-383,391-397,405-412,433-438,443-444
+  s_1de010d0b823b2::t_4f962da7f2e392 492-493,520
+  s_1de010d0b823b2::t_f4f021e8e0bfe6 450,457
+  s_1de010d0b823b2::t_6e6a1ebf3271aa 89-90,439,530
+  s_00fe0a643fa08d::t_308a8a81c7e6a5 36
+  s_1de010d0b823b2::t_5e709c09a5360f 451-453
+  s_1de010d0b823b2::t_8620d266aaa541 52,59,94-95
+  s_1de010d0b823b2::t_f882eefc689ff5 481,486-487,489-491,494-497,503,505,509-511,518-519,521
+  s_00fe0a643fa08d::t_79f98bb893990a 35,440-441
+  s_00fe0a643fa08d::t_3694e3019e014b 20
+  s_1de010d0b823b2::t_64abb9d49001f6 458,485,488,508,517
+  s_1de010d0b823b2::t_0b520440f1ce31 474,476,482,498-501,512-515
+  s_1de010d0b823b2::t_7c4f6aaf889357 480
+  s_00fe0a643fa08d::t_2d628c1079a6ae 38-44
+  s_00fe0a643fa08d::t_71489c9af27726 9-19,21-34,37,45-46,471,473,475
+  s_1de010d0b823b2::t_e3cc3095d9b8a2 472,479,502,506-507,516
+  s_1de010d0b823b2::t_854a35828882dc 50,57,75-76,79,398-404,425-431
+  s_1de010d0b823b2::t_bdf90e427cd4dd 86-88,91-92
+  s_1de010d0b823b2::t_2861d5db3d51ba 74,82
+  s_1de010d0b823b2::t_a712e0a2bc8fe7 54-56,60-62,69-71
+  s_1de010d0b823b2::t_becb4907536904 442
+src/presentation/FilterPanelState.h
+  s_00fe0a643fa08d::t_afcbb054036cec 6,31-32,52
+  s_1de010d0b823b2::t_a15e9265905c64 1-2,5,7-13,15,55
+  s_00fe0a643fa08d::t_d32596d9212978 4,14,56
+  s_00fe0a643fa08d::t_a00953b46584fb 16-30,33-51,53-54
+  s_1de010d0b823b2::t_9fa743a234b1c6 3
+scripts/lazy_scripts/build-debian.sh
+  s_1de010d0b823b2::t_7d3acc7b2b3cd3 1-46
+src/infra/preferences/FilterPreferencesJsonCodec.cpp
+  s_00fe0a643fa08d::t_ff511ad6384318 1-5,9-11,29-44,48-54,71-74,87,94-102,111-114
+  s_00fe0a643fa08d::t_d1a1ea22a9e545 45-47,85-86
+  s_00fe0a643fa08d::t_e224292d92372b 75-84,91-93
+  s_00fe0a643fa08d::t_a6a45b3f3f5073 103-107
+  s_00fe0a643fa08d::t_f70aeb42ec70db 6-8,12-16,18-28,55-70,88,108-110
+  s_00fe0a643fa08d::t_66e60b246b4858 17,89-90
+src/presentation/AdvancedTextFilterViewModel.h
+  s_00fe0a643fa08d::t_bf9806f98f8034 17,25,49
+  s_00fe0a643fa08d::t_afba8af6d1a169 29
+  s_00fe0a643fa08d::t_76bccdab601d61 37
+  s_00fe0a643fa08d::t_3d2a3a87be1c2e 28,31
+  s_00fe0a643fa08d::t_a9af73a25d2c58 43-44
+  s_00fe0a643fa08d::t_e4c7080fd02fb8 30
+  s_00fe0a643fa08d::t_39c08b87f77b2e 6,50
+  s_00fe0a643fa08d::t_24753e48ce000d 34
+  s_00fe0a643fa08d::t_717825012ef4b6 3,51
+  s_00fe0a643fa08d::t_697b4fee6a7a73 1-2,4-5,8-16,19-24,27,32-33,38-42,46-48,53-55
+  s_00fe0a643fa08d::t_903ed0b2a4c656 18,26,45,52
+  s_00fe0a643fa08d::t_94f09143c4177a 35-36
+tools/configure-dev.sh
+  s_1de010d0b823b2::t_1d1d6f2853078d 76,185-186
+  s_1de010d0b823b2::t_bdf71c85ab871b 29,31
+  s_1de010d0b823b2::t_56108fb0632f83 119-125,170-173
+  s_1de010d0b823b2::t_d24c88e0e35f41 87-96,130-132
+  s_1de010d0b823b2::t_8957bc2d1fd60e 19-28,33-46,194-195
+  s_1de010d0b823b2::t_0c784d0b6eb612 30,32
+  s_1de010d0b823b2::t_3d6efc1d1e3a66 62-64
+app/desktop/qml/components/AdvancedScopeFilterCard.qml
+  s_00fe0a643fa08d::t_2ed80a6c06bcc4 1-21,23-44,46-47,49-55,57-68
+  s_00fe0a643fa08d::t_22205ed4e2c866 22,45,48,56
+app/desktop/DesktopSmokeCapture.cpp
+  s_00fe0a643fa08d::t_974ede34044b5d 75
+  s_00fe0a643fa08d::t_ba5b93adb2d625 3-5,30-32,36,43-45,59-62,71-74,76-83,86
+  s_00fe0a643fa08d::t_9242a70c7c3525 13,46-47,87-109
+src/presentation/BrowsePageLifecycleCoordinator.h
+  s_1de010d0b823b2::t_2ceb1b1971e1bd 1-33
+src/presentation/ColumnSettingsModel.cpp
+  s_00fe0a643fa08d::t_701a848200d036 15
+  s_00fe0a643fa08d::t_d347582c4e3f6f 227-243
+  s_00fe0a643fa08d::t_77aab69000ad08 7
+  s_00fe0a643fa08d::t_f3da7ebc90a580 55,67,111,114-115
+  s_00fe0a643fa08d::t_db86ac58aa6980 100-103
+  s_00fe0a643fa08d::t_c176086a6d3e03 206,222-223
+scripts/lazy_scripts/macos-build-clean-test-smoke-run.sh
+  s_1de010d0b823b2::t_e38698db364860 10
+  s_00fe0a643fa08d::t_dfb17ad639f98b 15-16,30-32
+  s_1de010d0b823b2::t_4a237f1046c086 29
+  s_00fe0a643fa08d::t_79f98bb893990a 12-13
+  s_00fe0a643fa08d::t_6b80bd5a3b4ef5 34-37
+  s_1de010d0b823b2::t_da3a067bb41e53 1-9,11,14,17-28,33,38-46
+app/desktop/qml/components/ActionButton.qml
+  s_00fe0a643fa08d::t_d9a7658bc3acaa 17
+  s_00fe0a643fa08d::t_30223b6fad7e02 20,22-23,29-30,34-37
+  s_00fe0a643fa08d::t_6af58334cf2042 25,50
+  s_00fe0a643fa08d::t_0659b9d4033a03 26,28,40
+  s_00fe0a643fa08d::t_b69be296a5047d 33,51
+  s_00fe0a643fa08d::t_0195385904cd32 21,24,27
+src/presentation/FilterPanelAdvancedViewModel.h
+  s_00fe0a643fa08d::t_d879bd1f749af7 1-2,7-16,20-21,23-24,29-40,45-47
+  s_00fe0a643fa08d::t_3fc67f667ee175 28
+  s_00fe0a643fa08d::t_c4c7813905b26c 3-5,17-19,42-44
+  s_00fe0a643fa08d::t_ef055e33b0250c 6,22,41
+  s_00fe0a643fa08d::t_212ac066d9330e 25-27
+app/desktop/DesktopApplicationRuntime.h
+  s_00fe0a643fa08d::t_b73e967e65140e 1-31
+src/presentation/DetailsViewModel.h
+  s_00fe0a643fa08d::t_e304786187a111 15
+  s_00fe0a643fa08d::t_8eea1a73fd30a1 8,18-19,31-32,41
+  s_00fe0a643fa08d::t_1a3305b0bcde40 16,30
+src/domain/SsaRelationGraph.cpp
+  s_00fe0a643fa08d::t_c8bebd5804b122 15,20,28-29,31
+  s_00fe0a643fa08d::t_0b809bd4f7a243 26-27
+  s_00fe0a643fa08d::t_eb248102898f46 1-14,16-19,21-25,30,32-36
+src/presentation/AdvancedTextFilterColumnStore.h
+  s_00fe0a643fa08d::t_fc3f06de90421d 26-28
+  s_00fe0a643fa08d::t_b1e3f617d8cac8 29-30
+  s_00fe0a643fa08d::t_c458779fa68c79 7,10,34-35
+  s_00fe0a643fa08d::t_b7473f1edb5bbc 3-4,37-38
+  s_00fe0a643fa08d::t_8e561f4b8829f5 19-20
+  s_00fe0a643fa08d::t_ff6339bc13b2d6 12
+  s_00fe0a643fa08d::t_26091d5c43f230 21-25
+  s_00fe0a643fa08d::t_ffa6014d379c53 1-2,5-6,8-9,11,13-18,31-33,36,39-41
+app/desktop/qml/components/FilterPanel.qml
+  s_00fe0a643fa08d::t_6be4f28f3ea5e0 68
+  s_00fe0a643fa08d::t_004b6bd0f2b743 1-2
+  s_00fe0a643fa08d::t_e1f1f5dfc40b44 13-14,44,48,54
+  s_00fe0a643fa08d::t_63ae7c0f450eeb 42,46
+  s_00fe0a643fa08d::t_2dc9a1c56a2e36 69
+  s_00fe0a643fa08d::t_d5d6a591687dec 70
+  s_00fe0a643fa08d::t_39a81bd40c8cec 73-76
+  s_00fe0a643fa08d::t_e00c917aec1b41 11,39-40,66
+  s_00fe0a643fa08d::t_eb8390558c9dd1 12
+  s_00fe0a643fa08d::t_9ea068d5ed5e11 21,24,28,35-38,55-59,63,65
+  s_00fe0a643fa08d::t_0bd759b722df3d 17-18
+  s_00fe0a643fa08d::t_f1632296f0c8fa 43,47
+src/presentation/BrowseSelectionCoordinator.cpp
+  s_1de010d0b823b2::t_fae1973fa42b0e 1-18,23
+  s_1de010d0b823b2::t_e3321eded2dddc 19-22
+.gitignore
+  s_1de010d0b823b2::t_d421fc41693a99 17
+src/presentation/FilterPanelState.cpp
+  s_00fe0a643fa08d::t_d32596d9212978 8,23,174
+  s_00fe0a643fa08d::t_c5d6645d363ce8 10-12,14-22,24-26,28-30,32-34,36-38,40-42,44-47,49-51,53-55,57-64,67-68,71,73-89,91-92,94-97,100-101,105-110,112-114,117-120,122-127,130-133,144-146,148-158,163-168,170-172
+  s_00fe0a643fa08d::t_c6c2582d0b85a2 13
+  s_00fe0a643fa08d::t_81e646d91e3af4 135-139
+  s_00fe0a643fa08d::t_a34b51b8647d6d 65-66,69-70,121,134,143,147,162,169
+  s_1de010d0b823b2::t_a1bf0fa38d6777 128
+  s_1de010d0b823b2::t_1b0069b63b6326 1-7,9,27,31,35,39,43,48,52,56,72,90,93,98-99,102-104,111,115-116,129,173
+src/application/SsaBrowseService.cpp
+  s_00fe0a643fa08d::t_87ba9f10e2800f 50-51
+tests/unit/TextFilterTokenTests.cpp
+  s_00fe0a643fa08d::t_773add800e236c 9-12,14-15,33,36-38
+  s_00fe0a643fa08d::t_3e8bce92219cf9 59-66
+  s_00fe0a643fa08d::t_6891abb9685450 42,44,46
+  s_00fe0a643fa08d::t_e58dccced90532 41
+  s_00fe0a643fa08d::t_c0113058e4a365 1-5,7-8,13,16-28,51-58
+  s_00fe0a643fa08d::t_3fe4fbf3b7d01e 6
+  s_00fe0a643fa08d::t_2d2d82add07cd7 43,45,47,49-50
+  s_00fe0a643fa08d::t_fa42525076e1a1 48
+  s_00fe0a643fa08d::t_945604806d0861 67-75
+  s_00fe0a643fa08d::t_7feda401228cd9 29-32,34-35,39-40
+src/presentation/FilterPanelDistinctValueFetcher.cpp
+  s_1de010d0b823b2::t_2d3ba5626e407f 1-4,7,9,22-25,30-43,57,65-67
+  s_1de010d0b823b2::t_4b304d2f0d6a75 6
+  s_1de010d0b823b2::t_195eb066e87c68 26-29,56,58-64
+  s_1de010d0b823b2::t_82f9404edf52c5 5,8,10-21,44-50,52-55
+scripts/build-windows.ps1
+  s_1de010d0b823b2::t_9e8386f32662f2 4-6,12,14,23,26-30,36
+  s_1de010d0b823b2::t_94f27fe9948d76 7,15,18-22,24-25,31-34,39,43
+RECOVERY_BACKLOG.md
+  s_1de010d0b823b2::t_f8ec17be00b215 1-9
+  s_00fe0a643fa08d::t_eaa3de9644307b 10-14
+src/presentation/PageQueryCoordinator.cpp
+  s_1de010d0b823b2::t_0d40430dfb8f77 33-38
+  s_1de010d0b823b2::t_e029953d826536 28-29
+  s_00fe0a643fa08d::t_d32596d9212978 77
+src/ports/IUserPreferencesStore.h
+  s_00fe0a643fa08d::t_d32596d9212978 39-43
+  s_00fe0a643fa08d::t_632b9a6d0321b2 16,20-26
+  s_00fe0a643fa08d::t_714dd28fbe7ec8 12,28,32-38
+  s_00fe0a643fa08d::t_e103cf1f1315d5 13
+src/ports/UserPreferenceDefaults.h
+  s_00fe0a643fa08d::t_d32596d9212978 4,13-17
+  s_1de010d0b823b2::t_c29a4966acf932 10-11
+src/domain/ColumnCatalog.cpp
+  s_00fe0a643fa08d::t_dd7fd8d29481a9 202
+  s_00fe0a643fa08d::t_0dceb5b37aac7b 82
+  s_00fe0a643fa08d::t_94b3d68c01637a 264-265
+  s_00fe0a643fa08d::t_e94b483516b455 248-251
+  s_00fe0a643fa08d::t_a31788106239b9 43,45-46,51,53-55,60-61,77
+  s_00fe0a643fa08d::t_6804d7d7bcdc8e 160-161
+  s_00fe0a643fa08d::t_407cdd028b5b51 207,209
+  s_00fe0a643fa08d::t_d48ead48f9fc3e 22-36,156-159,162-164,208,213-215
+  s_00fe0a643fa08d::t_ba8477b66680e2 149-155,165-168,203
+  s_00fe0a643fa08d::t_7c8578077602cc 6,137-148,252-257,285-286
+  s_00fe0a643fa08d::t_cceb56b923f939 210-212,216-221
+  s_00fe0a643fa08d::t_184742ff42ec96 280-283
+  s_00fe0a643fa08d::t_7a11984745dd78 284,287,289,293
+src/presentation/FilterPanelSectorViewModel.h
+  s_00fe0a643fa08d::t_1a3b0fd6bd13b4 7,23,44,56
+  s_00fe0a643fa08d::t_be065dd0d18e33 1-4,8-22,24-38,40-43,45-47,52-55,58-61
+  s_00fe0a643fa08d::t_30b8d812de4cc1 6,50
+  s_00fe0a643fa08d::t_950cf97d4ceb48 39
+  s_00fe0a643fa08d::t_865e680dbf6364 5,57
+  s_00fe0a643fa08d::t_8a4cdcdf063c2f 48-49,51
+app/desktop/qml/components/DetailsPanel.qml
+  s_00fe0a643fa08d::t_55b77e9900e011 74,85
+  s_00fe0a643fa08d::t_c221311e37cc13 13-14,24,137,139,141,143,145-150,152-159,164-166
+  s_00fe0a643fa08d::t_8cb0f67857b433 70,77,90-91,99,106
+  s_00fe0a643fa08d::t_1ad9f53815a7a6 39
+  s_00fe0a643fa08d::t_0b809bd4f7a243 86-88,144
+  s_00fe0a643fa08d::t_8eea1a73fd30a1 37-38,41-46,48-60,63-69,71-73,75-76,78-84,89,92-98,100-105,107-114
+  s_00fe0a643fa08d::t_35223d0c12129e 47
+  s_00fe0a643fa08d::t_b69743fc88fe7c 29,40,61-62
+  s_00fe0a643fa08d::t_44dcb6c7440b58 27,30-34
+scripts/project-paths.ps1
+  s_00fe0a643fa08d::t_62b7ef4c0a322d 1-27
+src/presentation/AdvancedTextFilterColumnState.h
+  s_00fe0a643fa08d::t_828c1c0ab6b438 1-6,9-12,15,17-19
+  s_00fe0a643fa08d::t_8abbc3ff0ace70 7-8,16
+  s_00fe0a643fa08d::t_43a2219bba214e 13-14
+scripts/smoke-macos.sh
+  s_00fe0a643fa08d::t_4d588cabc4cdcf 46
+  s_1de010d0b823b2::t_87bd7491c57f62 1-4,7,11,14,16,18,21-23,25-26,45,47,63-64,68-69
+  s_1de010d0b823b2::t_cb53f0c06fd7a9 5,15,24,51,70
+  s_00fe0a643fa08d::t_79f98bb893990a 17,57
+  s_00fe0a643fa08d::t_d735f3ca387b50 19-20
+  s_1de010d0b823b2::t_3f1ccedde64270 8-10
+  s_00fe0a643fa08d::t_6b80bd5a3b4ef5 53,65-67
+  s_00fe0a643fa08d::t_9aa6448506ee14 48-50
+  s_00fe0a643fa08d::t_4442c5d82d9720 13,79-80
+  s_00fe0a643fa08d::t_4fc50604bf9649 62,78
+  s_1de010d0b823b2::t_46de074f290d75 52,54-56,60-61
+  s_1de010d0b823b2::t_9b898b7fe048b8 71-77
+  s_00fe0a643fa08d::t_e741acfbc9ea65 58-59
+  s_00fe0a643fa08d::t_041b4e17fbc650 6,12,27-44
+app/desktop/qml/Main.qml
+  s_00fe0a643fa08d::t_925c9886ec917c 314
+  s_00fe0a643fa08d::t_1d208a633f8b4f 315-316,381-398,401
+  s_1de010d0b823b2::t_cca78403ddf2b4 305,346
+  s_00fe0a643fa08d::t_f2771eda8db12a 213,222-225,254,313,379
+  s_00fe0a643fa08d::t_44dcb6c7440b58 317
+  s_00fe0a643fa08d::t_7148967bd27b6b 82
+  s_00fe0a643fa08d::t_ecb33ecf800acb 211-212,215,229
+  s_00fe0a643fa08d::t_6a928cfbf0df8e 187-188,190,351
+  s_00fe0a643fa08d::t_9353df6975576c 14
+  s_00fe0a643fa08d::t_f192dbddac8081 16-19,21,195,200-202,207,210,216-219,221,250-253,255-264,266-279,281-300,302,320,323-327,329-333,349-350,352-356,363
+  s_00fe0a643fa08d::t_1729b548562bfd 53-81,83-90,92-93,95-96,98-99,101-112,114-138,140-164
+  s_00fe0a643fa08d::t_d3718a54c9f2d0 12
+  s_00fe0a643fa08d::t_90a8148e253126 29-52,91,94,97,100,237,240,243,246
+  s_00fe0a643fa08d::t_7fe1d82f693031 139
+  s_00fe0a643fa08d::t_7a8863d9dede1d 337
+  s_00fe0a643fa08d::t_8537b003ab552c 113,189
+src/query/TextFilterToken.h
+  s_00fe0a643fa08d::t_ca395ec3778865 3,32-33,43-44
+  s_00fe0a643fa08d::t_bfa2be091a53fc 27,30-31,38-42,45
+  s_00fe0a643fa08d::t_4f57b2eb5e5d8f 50
+  s_00fe0a643fa08d::t_173c496c311f06 6,19
+  s_00fe0a643fa08d::t_9c470ab5a0adb9 35
+  s_00fe0a643fa08d::t_13ca4a3b6c04c6 22-26,28-29
+  s_00fe0a643fa08d::t_60a5c04c3ff073 1-2,4-5,7-13,20-21,34,37,51-52
+  s_00fe0a643fa08d::t_a9f9f36735cb0f 14-18,36,47-49
+  s_00fe0a643fa08d::t_c763f272a9b173 46
+app/desktop/qml/components/ColumnFilterPanel.qml
+  s_00fe0a643fa08d::t_2e6be2991a7ea7 12,36
+  s_00fe0a643fa08d::t_76e332ea85964e 48-50
+  s_00fe0a643fa08d::t_712e02a9584a14 38
+  s_00fe0a643fa08d::t_d5d6a591687dec 11,29
+  s_00fe0a643fa08d::t_2dc9a1c56a2e36 10
+  s_00fe0a643fa08d::t_6be4f28f3ea5e0 3-9,13-28,30-35,39-47,51-63
+  s_00fe0a643fa08d::t_e1f1f5dfc40b44 1-2
+  s_00fe0a643fa08d::t_f4eba1894d34a4 37
+src/domain/SsaRelationGraph.h
+  s_00fe0a643fa08d::t_eb248102898f46 1-10,17,19-27
+  s_00fe0a643fa08d::t_c8bebd5804b122 11-16,18
+app/desktop/qml/Theme.qml
+  s_00fe0a643fa08d::t_971beb3cf51d03 26,49,72,96
+  s_00fe0a643fa08d::t_aa83443536471a 79
+  s_00fe0a643fa08d::t_28160736501583 10,12-25,27-33,35-45,47-48,50-56,58-71,73-78,81-95,97-101
+  s_00fe0a643fa08d::t_0b809bd4f7a243 109-111
+  s_00fe0a643fa08d::t_77c9f214b7f789 117-118,120
+  s_00fe0a643fa08d::t_a29f6823976206 46
+  s_00fe0a643fa08d::t_6c5e49a51b863e 6,103-108
+  s_00fe0a643fa08d::t_d26a951d6587fb 11,34,57,80
+  s_00fe0a643fa08d::t_0d02dff7c51e80 112-114,121-126
+src/presentation/ActionStatusCoordinator.h
+  s_00fe0a643fa08d::t_5f9c12b3ea5b82 7,19-20,27-28,33
+  s_1de010d0b823b2::t_195b57054b52aa 1-6,8-18,21-26,29-32,34-38
+app/desktop/qml/components/PreferencesDialog.qml
+  s_00fe0a643fa08d::t_9a93d6eb503f7d 11-12,19-20,23,34-37,40-42,46-47,49-51,54-60,63,65-66,68,70-89,91,93-103,105-125,127-142,149-150,153-158,161-163,166-176,178,180-181,188-189
+  s_00fe0a643fa08d::t_22205ed4e2c866 90,104,126
+  s_1de010d0b823b2::t_c29fa5b2e3f6d8 183,191
+src/presentation/BrowseViewModel.cpp
+  s_00fe0a643fa08d::t_d46e7bc7393bee 67
+  s_00fe0a643fa08d::t_76835f79d25e85 108-109
+  s_00fe0a643fa08d::t_7d20d8233be3c3 142
+  s_1de010d0b823b2::t_22440846a858d8 26,30
+  s_00fe0a643fa08d::t_31690a35cf3b89 114-116
+  s_00fe0a643fa08d::t_57c9bd92363bed 27-29,31-33,66,68-70
+  s_1de010d0b823b2::t_9cfba6aac26a1e 17-20,22,95-101,104,106-107,110,121-127
+  s_00fe0a643fa08d::t_a53e5d60cd3062 117
+  s_1de010d0b823b2::t_71687cd52a78b7 94
+scripts/lazy_scripts/package-debian.sh
+  s_1de010d0b823b2::t_c5d66b4810ea75 1-7
+run-macos-smoke-clean
+  s_00fe0a643fa08d::t_9a3a633ff5a80f 1-4
+  s_00fe0a643fa08d::t_3dbe60ee44e63f 5
+app/desktop/DesktopSmokeCapture.h
+  s_00fe0a643fa08d::t_22a0afd8f4151c 16,20
+app/desktop/DesktopApplicationRuntime.cpp
+  s_00fe0a643fa08d::t_acb78536db1ac0 13,15
+  s_00fe0a643fa08d::t_db6fe2839cb908 18,31
+  s_00fe0a643fa08d::t_b0d652e4fbe408 3
+  s_00fe0a643fa08d::t_8f0fb0a03996f4 1-2,4-12,14,16-17,19-20,22-30,32-35
+  s_00fe0a643fa08d::t_ff9dc11a6c55a5 21
+scripts/lazy_scripts/macos-build-test-smoke-run.sh
+  s_00fe0a643fa08d::t_82bc738fe40b19 45-46,99-104
+  s_00fe0a643fa08d::t_79f98bb893990a 16
+  s_00fe0a643fa08d::t_7225c261e381ff 49,79,115
+  s_00fe0a643fa08d::t_e741acfbc9ea65 39-41,106
+  s_1de010d0b823b2::t_c35e47adac00d6 1-15,17-19,21-34,37-38,42-44,47-48,51-78,80-81,86-98,105,107,112
+  s_1de010d0b823b2::t_1388ce61b7bb7a 108-111,113-114
+  s_00fe0a643fa08d::t_59586ac926d967 20,50,82-85,116-117
+  s_00fe0a643fa08d::t_7802b649935a68 35-36
+app/desktop/DesktopSmokeScreenshotCapture.h
+  s_00fe0a643fa08d::t_510c2bc1910047 1-19
+app/desktop/qml/components/AppComboBox.qml
+  s_00fe0a643fa08d::t_089e7ddf5dfc98 3-16,19-21,25-29,32-36,38-85
+  s_00fe0a643fa08d::t_e81aebf526c572 1-2,17-18,22-24,30-31,37
+src/presentation/MainPreferenceFlowCoordinator.cpp
+  s_00fe0a643fa08d::t_bfed78e78b6fe3 49-50
+  s_00fe0a643fa08d::t_925c9886ec917c 87
+  s_00fe0a643fa08d::t_2619ab9e71a8c9 89
+  s_1de010d0b823b2::t_8b132cf07db0d7 67-68
+  s_00fe0a643fa08d::t_c67b63561a4a53 152
+  s_00fe0a643fa08d::t_b93ab418a91ec3 101-104,107,122-125,130,133-151,153-165
+  s_00fe0a643fa08d::t_da196df37d53a1 9-12,48,51,90-93,95-97,126-127,171
+  s_00fe0a643fa08d::t_4a454f18954f99 35-37,109
+  s_00fe0a643fa08d::t_5f9c12b3ea5b82 46-47,72-73,85-86,88
+  s_00fe0a643fa08d::t_288537f84fc56c 22-34,38-42,110,131
+  s_00fe0a643fa08d::t_ab4a96c22976c2 52-54,56-61
+  s_1de010d0b823b2::t_30a7f1eeb36efd 1-4,13,45,62-66,69-71,74-75,77-84
+  s_00fe0a643fa08d::t_025e126fb0c683 55
+  s_00fe0a643fa08d::t_88f7f838a578d0 5-8,14-21,43-44,98-100,105-106,108,111-120,128-129,132,166-170,172
+  s_00fe0a643fa08d::t_d347582c4e3f6f 76
+  s_00fe0a643fa08d::t_5f0501c5b11d7f 94,121
+src/presentation/FilterPanelSectorViewModel.cpp
+  s_00fe0a643fa08d::t_eb67d1738fdbb2 110,117
+  s_00fe0a643fa08d::t_7d48056be6d0d2 1-33,39-72,74-76,81-82,84-85,87-88,91-94,96,101-102,104,108-109,111-112,114,129,140-141,147
+  s_00fe0a643fa08d::t_05560367683b3d 35-36,38,73,77-80,103,118,122-124,126-128
+  s_00fe0a643fa08d::t_92483234cb86ea 105
+  s_00fe0a643fa08d::t_36ed1f59c9b486 37,90,97-99,130-138
+  s_00fe0a643fa08d::t_55849a56127818 34,113,115,119-121,139
+  s_00fe0a643fa08d::t_c19b81dac6fb1e 142-146
+  s_00fe0a643fa08d::t_ac1bfdde5d003d 89,100,107
+  s_00fe0a643fa08d::t_0ada791fef3f98 83,86,95,106,116,125
+src/presentation/ColumnFilterViewModel.cpp
+  s_00fe0a643fa08d::t_f4eba1894d34a4 22
+  s_00fe0a643fa08d::t_aed2d0b4e4b02f 44-51,62-63,72-73,78,81-82
+  s_00fe0a643fa08d::t_d5d6a591687dec 1-17,23-31,33-43,52-59,64-68,70-71,75-77,79-80,83-86,91-94
+  s_00fe0a643fa08d::t_3b6e2a4d26a32f 60-61,74
+  s_00fe0a643fa08d::t_712e02a9584a14 32
+  s_00fe0a643fa08d::t_29b8ed733fb8f3 18-21,69,87-90
+scripts/lazy_scripts/run-macos.sh
+  s_1de010d0b823b2::t_398bbca576bbeb 1-6,8-15,17-48,53-77,79,81-82
+  s_00fe0a643fa08d::t_35d8dfb9882341 7
+  s_00fe0a643fa08d::t_7225c261e381ff 16,49-52,78,80,83-87
+src/presentation/UiSettingsViewModel.cpp
+  s_1de010d0b823b2::t_db3e6564b972b7 122,128
+  s_1de010d0b823b2::t_50f4bf55fe122c 8,34-43,83,98,102,106,110,114-116,125,143-144,147
+  s_1de010d0b823b2::t_ed888dedfa998d 52,79,124,129-130,151-156,159-165
+src/presentation/WorkflowCommandViewModel.cpp
+  s_00fe0a643fa08d::t_558c9aff1e5df1 8-13,37,40,45-52
+  s_00fe0a643fa08d::t_8c52e7a20acb0e 1-7,14-36,38-39,41-44,53-61
+src/platform/StartupOptions.cpp
+  s_00fe0a643fa08d::t_f8f9abcc3cb667 76-79,96-97
+  s_00fe0a643fa08d::t_7f726d8ccfc4ee 4,60-67,72-73,85,102
+  s_00fe0a643fa08d::t_1a2d64feef106d 49,101
+  s_00fe0a643fa08d::t_f4b10b2589f3e6 71
+  s_00fe0a643fa08d::t_0dbe8600a38d47 68-70
+scripts/lib/package_common.ps1
+  s_1de010d0b823b2::t_febbee74baa253 23-52,54-55
+  s_1de010d0b823b2::t_c138b8322f97e2 53
+  s_1de010d0b823b2::t_5aaab21614ff75 95-97,99,101-102
+  s_1de010d0b823b2::t_3adfb383d43d5c 1-13,15-22,87-94,98,100,103-115
+  s_1de010d0b823b2::t_401d7c73939c35 56-86
+src/platform/SystemThemeResolver.h
+  s_1de010d0b823b2::t_42efe645698b58 1-27
+tools/configure-dev.ps1
+  s_1de010d0b823b2::t_97b9171a6cddb9 81,116-119,147-149
+  s_1de010d0b823b2::t_a21cd565829636 217-221
+  s_1de010d0b823b2::t_94963c130ac8ce 238-254
+  s_1de010d0b823b2::t_7b215c51484e62 233-237,255-260,299
+src/presentation/MainColumnFlowCoordinator.cpp
+  s_1de010d0b823b2::t_8bf3742e1cb906 1-7,14-30
+  s_1de010d0b823b2::t_a77737cfde59bc 8-13
+src/presentation/UiDetailsPanelGeometry.h
+  s_00fe0a643fa08d::t_d32596d9212978 7,32
+  s_1de010d0b823b2::t_87674443d181aa 18
+  s_1de010d0b823b2::t_932872eb04fc7a 19
+  s_1de010d0b823b2::t_9132d2598c19c5 1-6,8-17,21-31
+app/desktop/qml/components/ColumnConfigList.qml
+  s_00fe0a643fa08d::t_5361abfd433104 25
+  s_00fe0a643fa08d::t_db86ac58aa6980 30
+  s_00fe0a643fa08d::t_d5bbbb005977f2 86
+  s_00fe0a643fa08d::t_f3da7ebc90a580 54,70
+app/desktop/qml/components/AdvancedTextFilterCard.qml
+  s_00fe0a643fa08d::t_dbdaa9ec00c2fd 100-101,105
+  s_00fe0a643fa08d::t_75f85935736f1b 25,90
+  s_00fe0a643fa08d::t_85972bd221845d 11,67
+  s_00fe0a643fa08d::t_0b42fbc9644b70 17,71,78
+  s_00fe0a643fa08d::t_37e9765d2b6366 1-10,18-19,22,28-33,35,37,56-61,63,65-66,73-74,76-77,81-82,84,89,91-93,102-104,106,111-112,117-118,122-125
+  s_00fe0a643fa08d::t_3f455fb7dcea0a 12-13,109,115
+  s_00fe0a643fa08d::t_22205ed4e2c866 62,75
+  s_00fe0a643fa08d::t_eca01e755bd21b 97
+  s_00fe0a643fa08d::t_5e5c6a621c17bf 69-70
+  s_00fe0a643fa08d::t_ef881d7f80d972 99
+  s_00fe0a643fa08d::t_063c127a2a6cb7 80
+  s_00fe0a643fa08d::t_d31baecbf0909c 20-21,64,79,88,94-95,98
+  s_00fe0a643fa08d::t_5361abfd433104 68
+  s_00fe0a643fa08d::t_594cbff7a77a91 85
+  s_00fe0a643fa08d::t_e4c7080fd02fb8 16
+  s_00fe0a643fa08d::t_82bb7ab31f25a1 86-87
+  s_00fe0a643fa08d::t_2e7e5d1a7aac69 14-15,23-24,26-27,72,83,110,116,121
+  s_00fe0a643fa08d::t_1dbec98f034156 34,36,38-55,96,107-108,113-114,119-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "becc806b17113d2be45dd77b412827ae721b2d6b",
+  "prompts": {},
+  "sessions": {
+    "s_00fe0a643fa08d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e058d-7c7e-7310-8cef-5317ae65dca2",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    },
+    "s_1de010d0b823b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1c79-3897-7c61-9f19-1cb117a68ba9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
