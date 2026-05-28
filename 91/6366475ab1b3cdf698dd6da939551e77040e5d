@@ -1,0 +1,21 @@
+tests/unit/CliControllerTests.cpp
+  s_a7799e3002e70c::t_ef72bdb6b8db2d 102-121
+app/cli/SsaCliController.cpp
+  s_a7799e3002e70c::t_a8e53f94f9b39a 13,64-106,135-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "916366475ab1b3cdf698dd6da939551e77040e5d",
+  "prompts": {},
+  "sessions": {
+    "s_a7799e3002e70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6e38-1aa5-70f1-bba4-c37385dff20f",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
