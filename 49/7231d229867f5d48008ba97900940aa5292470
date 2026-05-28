@@ -1,0 +1,25 @@
+app/cli/SsaCliWorkflowRunner.cpp
+  s_a7799e3002e70c::t_39d75827394544 121,138-158
+app/cli/SsaCliController.cpp
+  s_a7799e3002e70c::t_bea67a1c4e3919 157-162
+tests/unit/CliControllerTests.cpp
+  s_a7799e3002e70c::t_e0edeb203ee574 181-191
+app/cli/SsaCliWorkflowRunner.h
+  s_a7799e3002e70c::t_a7c2e66cd9c886 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "497231d229867f5d48008ba97900940aa5292470",
+  "prompts": {},
+  "sessions": {
+    "s_a7799e3002e70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6e38-1aa5-70f1-bba4-c37385dff20f",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
