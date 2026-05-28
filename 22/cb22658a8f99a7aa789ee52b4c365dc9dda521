@@ -1,0 +1,19 @@
+docs/slice6_stability_closure.md
+  s_a7799e3002e70c::t_47c67fed5f3661 1-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "22cb22658a8f99a7aa789ee52b4c365dc9dda521",
+  "prompts": {},
+  "sessions": {
+    "s_a7799e3002e70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6e38-1aa5-70f1-bba4-c37385dff20f",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
