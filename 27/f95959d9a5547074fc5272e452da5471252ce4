@@ -1,0 +1,30 @@
+app/cli/SsaCliWorkflowRunner.cpp
+  s_a7799e3002e70c::t_f92bf80501107d 143
+  s_a7799e3002e70c::t_43af0f270bcb40 39,53
+  s_a7799e3002e70c::t_f045bf4339537a 20-22
+  s_a7799e3002e70c::t_aa9a2faae50b36 109-111
+  s_a7799e3002e70c::t_f9913ed567af8a 8-9,66,70,74,78
+  s_a7799e3002e70c::t_8324bb2005db32 130-132,144-148
+  s_a7799e3002e70c::t_64307c9905e610 58
+  s_a7799e3002e70c::t_739f61e2cecedc 94-95,99-106
+  s_a7799e3002e70c::t_a4cd29db5e7e81 107-108,112-122,155,161-162
+  s_a7799e3002e70c::t_450fea4f728670 10-12,15,63-65,84,96-98,166
+app/cli/SsaCliController.cpp
+  s_a7799e3002e70c::t_a4d2223eda1bbc 70-75,78-84,87-93,96-102,105-111,114-120,124,154-159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "27f95959d9a5547074fc5272e452da5471252ce4",
+  "prompts": {},
+  "sessions": {
+    "s_a7799e3002e70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6e38-1aa5-70f1-bba4-c37385dff20f",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
