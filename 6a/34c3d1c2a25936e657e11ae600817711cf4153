@@ -1,0 +1,38 @@
+src/presentation/WorkflowCommandRunner.cpp
+  s_a7799e3002e70c::t_c33f5ffc9eddfe 34-37
+  s_a7799e3002e70c::t_aba4bf38867321 74-78,81-88,92-93
+  s_a7799e3002e70c::t_71a69c9da5ad31 6,22,79-80,89-91
+tests/smoke/PresentationSmokeTest.cpp
+  s_a7799e3002e70c::t_ce00fbbaf4752c 210-212,792-793
+  s_a7799e3002e70c::t_ee8f3ca1695df1 208-209,213-236,761-791,794-795
+src/presentation/WorkflowCommandViewModel.h
+  s_a7799e3002e70c::t_201ddee22f96ca 39,57
+  s_a7799e3002e70c::t_0ac7033a29d0ce 42-47,52
+src/presentation/WorkflowCommandRunner.h
+  s_a7799e3002e70c::t_2fd80de9106a78 8
+  s_a7799e3002e70c::t_35d10b72bb9467 22,24
+src/presentation/WorkflowCommandViewModel.cpp
+  s_a7799e3002e70c::t_fa06a6dedfa444 22,50-52,62-66,68,72,76,84,122
+  s_a7799e3002e70c::t_cc59ba8717d2fc 87-88
+  s_a7799e3002e70c::t_1631ef476aae83 120-121,123-126
+  s_a7799e3002e70c::t_c2879c7ef00c83 12
+  s_a7799e3002e70c::t_3158ffb42cbfad 14,20,24,83,85-86
+  s_a7799e3002e70c::t_2fd80de9106a78 15,53-61
+  s_a7799e3002e70c::t_939d39f3d868c4 103-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "6a34c3d1c2a25936e657e11ae600817711cf4153",
+  "prompts": {},
+  "sessions": {
+    "s_a7799e3002e70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6e38-1aa5-70f1-bba4-c37385dff20f",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
