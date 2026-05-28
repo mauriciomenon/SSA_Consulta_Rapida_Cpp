@@ -1,0 +1,19 @@
+RECOVERY_BACKLOG.md
+  s_a7799e3002e70c::t_4898845424aa7d 1,3,5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "971cf4d41cb58d98cbb8cd2a19773d85f4f4ac2c",
+  "prompts": {},
+  "sessions": {
+    "s_a7799e3002e70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6e38-1aa5-70f1-bba4-c37385dff20f",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
