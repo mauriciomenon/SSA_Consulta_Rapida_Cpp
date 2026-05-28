@@ -1,0 +1,21 @@
+src/presentation/WorkflowCommandViewModel.cpp
+  s_a7799e3002e70c::t_01cbd762d71af2 84
+tests/smoke/PresentationSmokeTest.cpp
+  s_a7799e3002e70c::t_837b3b3f2dd3df 761-780,818-829
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "54d9d124fe3de18fb87afad6397c0c30c10c0636",
+  "prompts": {},
+  "sessions": {
+    "s_a7799e3002e70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6e38-1aa5-70f1-bba4-c37385dff20f",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
