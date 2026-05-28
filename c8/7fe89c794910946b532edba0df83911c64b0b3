@@ -1,0 +1,31 @@
+CMakeLists.txt
+  s_a7799e3002e70c::t_7e68d5f87b7f85 68
+app/desktop/DesktopMainViewModelFactory.cpp
+  s_a7799e3002e70c::t_5b7a92fd14ce68 9,54-55,57
+src/infra/sqlite/SqliteDerivadasPort.cpp
+  s_a7799e3002e70c::t_500050c19601a0 1-15,17-28,30-56
+  ai_agent 16,29
+app/cli/CliServiceFactory.cpp
+  s_a7799e3002e70c::t_6a45e42cd038f8 7,50-51,53
+src/infra/sqlite/SqliteDerivadasPort.h
+  s_a7799e3002e70c::t_455adc53b8de8a 1-19
+tests/integration/SqliteRepositoryTests.cpp
+  ai_agent 217-219
+  s_a7799e3002e70c::t_fc2dbe8a83a12b 3,210-216,220-226
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "c87fe89c794910946b532edba0df83911c64b0b3",
+  "prompts": {},
+  "sessions": {
+    "s_a7799e3002e70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e6e38-1aa5-70f1-bba4-c37385dff20f",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
