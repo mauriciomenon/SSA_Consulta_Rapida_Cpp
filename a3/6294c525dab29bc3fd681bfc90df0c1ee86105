@@ -1,0 +1,19 @@
+docs/development/cli-log-level-and-workflow-aliases-review.md
+  s_c057bfcbdab367::t_6884fd5cf65976 1-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "a36294c525dab29bc3fd681bfc90df0c1ee86105",
+  "prompts": {},
+  "sessions": {
+    "s_c057bfcbdab367": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019ebc5b-6444-78a7-95fa-ee20258587a7",
+        "model": "grok-4.20-0309-reasoning"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
