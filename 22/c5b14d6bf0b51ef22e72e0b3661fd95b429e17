@@ -1,0 +1,21 @@
+scripts/smoke-macos-core.sh
+  s_2c0be39900b624::t_7b7dd99e18f8f2 57-58
+CMakePresets.json
+  s_2c0be39900b624::t_9a0a8ab36ced29 12-13,24-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "22c5b14d6bf0b51ef22e72e0b3661fd95b429e17",
+  "prompts": {},
+  "sessions": {
+    "s_2c0be39900b624": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019eeb63-5117-7e5d-b54c-a083c1cc47dd",
+        "model": "nemotron-3-ultra-550b-a55b:free"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
