@@ -1,0 +1,25 @@
+.clawpatch/features/feat_library_ed53093f98.json
+  ai_agent 23-127
+.clawpatch/features/feat_library_0c96a3704b.json
+  ai_agent 214
+.clawpatch/features/feat_cli-command_d91ef197d1.json
+  ai_agent 52
+.clawpatch/features/feat_cli-command_59958af0b2.json
+  ai_agent 65
+.clawpatch/features/feat_library_828b1fa028.json
+  ai_agent 59-77
+.clawpatch/features/feat_library_0794b21972.json
+  ai_agent 65
+.clawpatch/features/feat_library_d8a2f53eba.json
+  ai_agent 27-77
+.clawpatch/features/feat_library_4ae3366e09.json
+  ai_agent 93
+.clawpatch/features/feat_library_7ef5ffc890.json
+  ai_agent 81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "4f21899c1eee3a1c474226db40b43b2692a3ad15",
+  "prompts": {}
+}
