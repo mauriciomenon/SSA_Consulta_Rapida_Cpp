@@ -1,0 +1,31 @@
+docs/contracts/gui-behavior.md
+  s_c20df3bd0d90c3::t_0e1a8b6c3bd91f 54-56
+src/presentation/MainColumnFlowCoordinator.cpp
+  s_c20df3bd0d90c3::t_0e1a8b6c3bd91f 34,38
+src/presentation/ColumnSettingsModel.cpp
+  s_c20df3bd0d90c3::t_0e1a8b6c3bd91f 151
+docs/contracts/functional-coverage.md
+  s_c20df3bd0d90c3::t_0e1a8b6c3bd91f 30
+app/desktop/qml/components/SsaTable.qml
+  s_c20df3bd0d90c3::t_0e1a8b6c3bd91f 51-60,62,70,78-82,110,112,116-117,119,162,164
+app/desktop/qml/components/ColumnSelectorPopup.qml
+  s_c20df3bd0d90c3::t_0e1a8b6c3bd91f 11,13-14,20-31
+tests/smoke/PresentationSmokeTest.cpp
+  s_c20df3bd0d90c3::t_2b63b07eff7528 420-421,427-428
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "e24ff10aeef0f9714fa02aceda6569df6df1bdd5",
+  "prompts": {},
+  "sessions": {
+    "s_c20df3bd0d90c3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef006-3d80-74f0-8e8b-5d62271b629b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
