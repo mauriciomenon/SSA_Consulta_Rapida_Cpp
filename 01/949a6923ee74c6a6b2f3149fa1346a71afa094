@@ -1,0 +1,9 @@
+tests/smoke/PresentationSmokeTest.cpp
+  ai_agent 588,648,669-672
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "01949a6923ee74c6a6b2f3149fa1346a71afa094",
+  "prompts": {}
+}
