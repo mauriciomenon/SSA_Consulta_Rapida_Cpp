@@ -1,0 +1,44 @@
+app/desktop/qml/components/SsaTable.qml
+  s_c20df3bd0d90c3::t_ec32b7cb2881b2 21-22
+  s_c20df3bd0d90c3::t_56284808baf39a 54,56,75,152-155
+  s_c20df3bd0d90c3::t_78bc52064924e2 13-14,87,89-90,92,102,106-107,121-122,131-135,137,139,142,144-148,157,159-161,170-181,183-190,209,217,225,250,252
+RECOVERY_BACKLOG.md
+  s_c20df3bd0d90c3::t_f3addf706b7501 6
+src/presentation/MainPreferenceFlowCoordinator.h
+  s_c20df3bd0d90c3::t_815865dadd77b4 15,17-18,44-45
+src/presentation/MainColumnFlowCoordinator.cpp
+  s_c20df3bd0d90c3::t_cb826eea21dfaa 46-47,63
+  s_c20df3bd0d90c3::t_1de8702f4c3c96 34-36,40-45,50-52,55,61-62,64-68,71,74-80,88
+  s_c20df3bd0d90c3::t_4f8d9b3929d3d6 10-12
+  s_c20df3bd0d90c3::t_815865dadd77b4 14-15,53-54,81-82
+src/presentation/MainViewModel.cpp
+  s_c20df3bd0d90c3::t_4f8d9b3929d3d6 22-29
+tests/smoke/PresentationSmokeTest.cpp
+  s_c20df3bd0d90c3::t_ce6089b413a453 451-460,573-575,578-604,632-634,637-667,689-692
+  s_c20df3bd0d90c3::t_cb826eea21dfaa 576-577,635-636
+app/desktop/qml/components/ColumnSelectorPopup.qml
+  s_c20df3bd0d90c3::t_78bc52064924e2 25-26,34,36-37,49,53
+  s_c20df3bd0d90c3::t_fd2b75ee98802d 21,45-48,50-52,54-55
+src/presentation/MainColumnFlowCoordinator.h
+  s_c20df3bd0d90c3::t_815865dadd77b4 7-9,21-22,25-27,41
+docs/development/roadmap.md
+  s_c20df3bd0d90c3::t_f3addf706b7501 26
+src/presentation/MainPreferenceFlowCoordinator.cpp
+  s_c20df3bd0d90c3::t_815865dadd77b4 83-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "6275ffc75b41f7fbd67cf37097acee2b54fbff8a",
+  "prompts": {},
+  "sessions": {
+    "s_c20df3bd0d90c3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef006-3d80-74f0-8e8b-5d62271b629b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
