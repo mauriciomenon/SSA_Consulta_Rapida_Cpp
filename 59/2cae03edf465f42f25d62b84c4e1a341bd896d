@@ -1,0 +1,21 @@
+app/desktop/qml/components/SsaTable.qml
+  s_c20df3bd0d90c3::t_8d56cc5e6abbda 135-136,171-172
+tests/smoke/PresentationSmokeTest.cpp
+  s_c20df3bd0d90c3::t_8d56cc5e6abbda 611
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "592cae03edf465f42f25d62b84c4e1a341bd896d",
+  "prompts": {},
+  "sessions": {
+    "s_c20df3bd0d90c3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef006-3d80-74f0-8e8b-5d62271b629b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
