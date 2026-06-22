@@ -1,0 +1,40 @@
+tests/integration/JsonPreferencesStoreTests.cpp
+  s_c20df3bd0d90c3::t_540c789006dfed 21,51
+app/desktop/qml/Theme.qml
+  s_c20df3bd0d90c3::t_4c2165a2c9b1f3 11-310,348,352,354,358
+  s_c20df3bd0d90c3::t_12634cdc414e29 10,311
+src/ports/UserPreferenceDefaults.h
+  s_c20df3bd0d90c3::t_562e4826db6c53 12-15
+app/desktop/qml/components/DetailsPanel.qml
+  s_c20df3bd0d90c3::t_ea13346519450e 42,44,49,51
+app/desktop/qml/components/ColumnConfigList.qml
+  s_c20df3bd0d90c3::t_ea13346519450e 97,99,106,108
+tests/smoke/PresentationSmokeTest.cpp
+  s_c20df3bd0d90c3::t_81c6b59cf67344 723,726-747
+scripts/smoke-macos-core.sh
+  s_2c0be39900b624::t_2db4fd09bcf47d 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "da141ad7fde6c864408310f8ce6f753f0511fb59",
+  "prompts": {},
+  "sessions": {
+    "s_2c0be39900b624": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019eeb63-5117-7e5d-b54c-a083c1cc47dd",
+        "model": "free"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    },
+    "s_c20df3bd0d90c3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef006-3d80-74f0-8e8b-5d62271b629b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
