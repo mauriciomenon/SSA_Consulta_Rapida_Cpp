@@ -1,0 +1,33 @@
+app/desktop/qml/components/SsaTable.qml
+  s_c20df3bd0d90c3::t_a344b4d92493ee 47,50-51,53,59-60,81,91-96,98-112,116-125,130
+  s_c20df3bd0d90c3::t_5bb462f0fd7afc 10-11,126-129
+  s_c20df3bd0d90c3::t_f8c561f1e514cd 97,113-115
+src/presentation/ColumnSettingsModel.cpp
+  s_c20df3bd0d90c3::t_a344b4d92493ee 143,147,151,156
+src/presentation/MainColumnFlowCoordinator.h
+  s_c20df3bd0d90c3::t_a344b4d92493ee 4,26
+src/presentation/ColumnSettingsModel.h
+  s_c20df3bd0d90c3::t_a344b4d92493ee 39
+src/presentation/MainColumnFlowCoordinator.cpp
+  s_c20df3bd0d90c3::t_a344b4d92493ee 30-38
+tests/smoke/PresentationSmokeTest.cpp
+  s_c20df3bd0d90c3::t_a344b4d92493ee 493-517
+app/desktop/qml/Main.qml
+  s_c20df3bd0d90c3::t_a344b4d92493ee 344-345
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "abca183172ee3e53334cd12513224babea662397",
+  "prompts": {},
+  "sessions": {
+    "s_c20df3bd0d90c3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef006-3d80-74f0-8e8b-5d62271b629b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
