@@ -1,0 +1,27 @@
+src/presentation/BrowseOrchestrator.cpp
+  s_c20df3bd0d90c3::t_6099b6813c8bc6 162
+tests/smoke/PresentationSmokeTest.cpp
+  s_c20df3bd0d90c3::t_ff3a9b915c5bbf 424,427-428
+  s_c20df3bd0d90c3::t_6099b6813c8bc6 408-420,422-423,425-426,430-449
+  s_c20df3bd0d90c3::t_5d307655d0230a 421,429
+tests/unit/SqlQueryBuilderTests.cpp
+  s_c20df3bd0d90c3::t_6099b6813c8bc6 53-57,59-64,66-89
+  s_c20df3bd0d90c3::t_5d307655d0230a 58
+  s_c20df3bd0d90c3::t_ff3a9b915c5bbf 65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "3a082d2ae35b7073438b2a06a1c00dc84c630a4a",
+  "prompts": {},
+  "sessions": {
+    "s_c20df3bd0d90c3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef006-3d80-74f0-8e8b-5d62271b629b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mauricio Menon <54405514+mauriciomenon@users.noreply.github.com>"
+    }
+  }
+}
